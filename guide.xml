@@ -55,8 +55,8 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=239&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="Sport TV + HD">
-    <display-name lang="pt">Sport TV + HD</display-name>
+  <channel id="SPTV + HD">
+    <display-name lang="pt">SPTV + HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=408&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -70,8 +70,8 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=2&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="Sport TV +">
-    <display-name lang="pt">Sport TV +</display-name>
+  <channel id="SPTV +">
+    <display-name lang="pt">SPTV +</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=407&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -175,8 +175,8 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=48&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="RTP 1 HD">
-    <display-name lang="pt">RTP 1 HD</display-name>
+  <channel id="RTP 1FHD">
+    <display-name lang="pt">RTP 1FHD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=171&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -190,8 +190,8 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=33&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="TV Cine 2 HD">
-    <display-name lang="pt">TV Cine 2 HD</display-name>
+  <channel id="TV Cine 2FHD">
+    <display-name lang="pt">TV Cine 2FHD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=150&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -340,8 +340,8 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=22&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="Sport TV 3 HD">
-    <display-name lang="pt">Sport TV 3 HD</display-name>
+  <channel id="SPTV 3FHD">
+    <display-name lang="pt">SPTV 3FHD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=153&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -400,8 +400,8 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=160&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="TV Cine 1 HD">
-    <display-name lang="pt">TV Cine 1 HD</display-name>
+  <channel id="TV Cine 1FHD">
+    <display-name lang="pt">TV Cine 1FHD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=149&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -510,8 +510,8 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=19&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="SPORT TV3">
-    <display-name lang="pt">SPORT TV3</display-name>
+  <channel id="SPTV3">
+    <display-name lang="pt">SPTV3</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=8&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -520,8 +520,8 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=368&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="SPORT TV4">
-    <display-name lang="pt">SPORT TV4</display-name>
+  <channel id="SPTV4">
+    <display-name lang="pt">SPTV4</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=154&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -530,8 +530,8 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=363&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="SPORT TV1">
-    <display-name lang="pt">SPORT TV1</display-name>
+  <channel id="SPTV1">
+    <display-name lang="pt">SPTV1</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=6&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -540,8 +540,8 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=39&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="SPORT TV2">
-    <display-name lang="pt">SPORT TV2</display-name>
+  <channel id="SPTV2">
+    <display-name lang="pt">SPTV2</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=7&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -555,8 +555,8 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=82&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="SPORT TV5">
-    <display-name lang="pt">SPORT TV5</display-name>
+  <channel id="SPTV5">
+    <display-name lang="pt">SPTV5</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=111&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -565,8 +565,8 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=81&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="TVC 3 HD">
-    <display-name lang="pt">TVC 3 HD</display-name>
+  <channel id="TVC 3FHD">
+    <display-name lang="pt">TVC 3FHD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=181&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -605,8 +605,8 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="Sport TV 1 HD">
-    <display-name lang="pt">Sport TV 1 HD</display-name>
+  <channel id="SPTV 1FHD">
+    <display-name lang="pt">SPTV 1FHD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=151&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -650,8 +650,8 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=360&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="RTP 2 HD">
-    <display-name lang="pt">RTP 2 HD</display-name>
+  <channel id="RTP 2FHD">
+    <display-name lang="pt">RTP 2FHD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=172&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -660,8 +660,8 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=35&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="Sport TV 4 HD">
-    <display-name lang="pt">Sport TV 4 HD</display-name>
+  <channel id="SPTV 4 HD">
+    <display-name lang="pt">SPTV 4 HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=10&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -695,8 +695,8 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=184&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="Sport TV 5 HD">
-    <display-name lang="pt">Sport TV 5 HD</display-name>
+  <channel id="SPTV 5 HD">
+    <display-name lang="pt">SPTV 5 HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=112&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -775,8 +775,8 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=23&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="Sport TV 2 HD">
-    <display-name lang="pt">Sport TV 2 HD</display-name>
+  <channel id="SPTV 2FHD">
+    <display-name lang="pt">SPTV 2FHD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=152&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -2384,122 +2384,122 @@
     <desc lang="pt">Yo soy taurino es un programa donde pasarán por las cámaras de Canal + Toros personajes conocidos de la sociedad española, ajenos al mundo del toro, pero aficionados taurinos. En este primer programa el protagonista es el presentador de televisión(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TOUROS_12327478/16_9/325/244" />
   </programme>
-  <programme start="20181006010000 +0100" stop="20181006013000 +0100" channel="Sport TV + HD">
+  <programme start="20181006010000 +0100" stop="20181006013000 +0100" channel="SPTV + HD">
     <title lang="pt">Rali Grã Bretanha</title>
     <desc lang="pt">Não perca os melhores momentos da mais emocionante prova de automobilismo do mundo, o WRC(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_22951537/16_9/325/244" />
   </programme>
-  <programme start="20181006013000 +0100" stop="20181006022000 +0100" channel="Sport TV + HD">
+  <programme start="20181006013000 +0100" stop="20181006022000 +0100" channel="SPTV + HD">
     <title lang="pt">Tuf 28</title>
     <desc lang="pt">Transmissão do confronto entre Whittaker x Gastelum(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_22951536/16_9/325/244" />
   </programme>
-  <programme start="20181006022000 +0100" stop="20181006035500 +0100" channel="Sport TV + HD">
+  <programme start="20181006022000 +0100" stop="20181006035500 +0100" channel="SPTV + HD">
     <title lang="pt">Aposta Tripla</title>
     <desc lang="pt">Programa de debate sobre a antevisão da jornada da Primeira Liga de futebol e sobre os grandes temas da atualidade, com preponderância para os relacionados com os três grandes do futebol português(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_23220382/16_9/325/244" />
   </programme>
-  <programme start="20181006035500 +0100" stop="20181006043000 +0100" channel="Sport TV + HD">
+  <programme start="20181006035500 +0100" stop="20181006043000 +0100" channel="SPTV + HD">
     <title lang="pt">Boxe</title>
     <desc lang="pt">Magazine dedicado ao Boxe(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_23165387/16_9/325/244" />
   </programme>
-  <programme start="20181006043000 +0100" stop="20181006050000 +0100" channel="Sport TV + HD">
+  <programme start="20181006043000 +0100" stop="20181006050000 +0100" channel="SPTV + HD">
     <title lang="pt">Rugby</title>
     <desc lang="pt">Magazine dedicado ao mundo do rugby(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_23165335/16_9/325/244" />
   </programme>
-  <programme start="20181006050000 +0100" stop="20181006060000 +0100" channel="Sport TV + HD">
+  <programme start="20181006050000 +0100" stop="20181006060000 +0100" channel="SPTV + HD">
     <title lang="pt">França</title>
     <desc lang="pt">Acompanhe o principal campeonato a nível mundial de corrida de superbike(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_22951327/16_9/325/244" />
   </programme>
-  <programme start="20181006060000 +0100" stop="20181006070000 +0100" channel="Sport TV + HD">
+  <programme start="20181006060000 +0100" stop="20181006070000 +0100" channel="SPTV + HD">
     <title lang="pt">Golfe</title>
     <desc lang="pt">Magazine dedicado ao mundo do golfe(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_23165370/16_9/325/244" />
   </programme>
-  <programme start="20181006070000 +0100" stop="20181006081000 +0100" channel="Sport TV + HD">
+  <programme start="20181006070000 +0100" stop="20181006081000 +0100" channel="SPTV + HD">
     <title lang="pt">GP Japão</title>
     <desc lang="pt">Destaque para o Grande Prémio do Japão, a partir do circuito de Suzuka. que recebeu o primeiro Grande Prémio pela primeira vez em 1987. Este circuito de alta velocidade continua a ser um dos maiores desafios de condução para os pilotos, com as famosas curvas sinuosas em "S"(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_22951973/16_9/325/244" />
   </programme>
-  <programme start="20181006081000 +0100" stop="20181006084500 +0100" channel="Sport TV + HD">
+  <programme start="20181006081000 +0100" stop="20181006084500 +0100" channel="SPTV + HD">
     <title lang="pt">Rali Grã Bretanha</title>
     <desc lang="pt">Não perca os melhores momentos da mais emocionante prova de automobilismo do mundo, o WRC(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_22951537/16_9/325/244" />
   </programme>
-  <programme start="20181006084500 +0100" stop="20181006090500 +0100" channel="Sport TV + HD">
+  <programme start="20181006084500 +0100" stop="20181006090500 +0100" channel="SPTV + HD">
     <title lang="pt">Golos da 2ª Jornada da Fase de Grupos: Liga Europa</title>
     <desc lang="pt">A Liga Europa da UEFA, prova que substituiu a Taça UEFA, nasceu de uma ideia concebida pelo suíço Ernst Thommen, juntamente com o italiano Ottorino Barrasi e o inglês Stanley Rous. Acompanhe jogos, resumos e toda a informação sobre esta competição(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_22954631/16_9/325/244" />
   </programme>
-  <programme start="20181006090500 +0100" stop="20181006100500 +0100" channel="Sport TV + HD">
+  <programme start="20181006090500 +0100" stop="20181006100500 +0100" channel="SPTV + HD">
     <title lang="pt">GP Tailândia</title>
     <desc lang="pt">A Moto2 é a classe de quatro tempos de 600cc. Acompanhe o Grande Prémio da Tailândia em Moto2(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_22952011/16_9/325/244" />
   </programme>
-  <programme start="20181006100500 +0100" stop="20181006102000 +0100" channel="Sport TV + HD">
+  <programme start="20181006100500 +0100" stop="20181006102000 +0100" channel="SPTV + HD">
     <title lang="pt">Notícias</title>
     <desc lang="pt">As últimas notícias desportivas, na sua Sport TV(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_23167589/16_9/325/244" />
   </programme>
-  <programme start="20181006102000 +0100" stop="20181006110500 +0100" channel="Sport TV + HD">
+  <programme start="20181006102000 +0100" stop="20181006110500 +0100" channel="SPTV + HD">
     <title lang="pt">Rui Rio: Cultura Tática</title>
     <desc lang="pt">António Simões convida personalidades relevantes da cultura e da sociedade portuguesas para uma conversa sobre desporto. Atores, escritores, políticos, cantores, etc. vão revelar a sua ligação ao fenómeno desportivo e visão diferente sobre os factos que compõem este mundo(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_22952487/16_9/325/244" />
   </programme>
-  <programme start="20181006110500 +0100" stop="20181006115500 +0100" channel="Sport TV + HD">
+  <programme start="20181006110500 +0100" stop="20181006115500 +0100" channel="SPTV + HD">
     <title lang="pt">Wrestling: Smackdown</title>
     <desc lang="pt">O WWE Smackdown apresenta os melhores lutadores, golpes e as melhores imagens, em exclusivo(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_22805390/16_9/325/244" />
   </programme>
-  <programme start="20181006115500 +0100" stop="20181006124000 +0100" channel="Sport TV + HD">
+  <programme start="20181006115500 +0100" stop="20181006124000 +0100" channel="SPTV + HD">
     <title lang="pt">Notícias</title>
     <desc lang="pt">As últimas notícias desportivas, na sua Sport TV(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_23167589/16_9/325/244" />
   </programme>
-  <programme start="20181006124000 +0100" stop="20181006131000 +0100" channel="Sport TV + HD">
+  <programme start="20181006124000 +0100" stop="20181006131000 +0100" channel="SPTV + HD">
     <title lang="pt">Bar SportTV</title>
     <desc lang="pt">Programa com três convidados, em que o principal objetivo é contar histórias curiosas do futebol do passado(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_23176956/16_9/325/244" />
   </programme>
-  <programme start="20181006131000 +0100" stop="20181006135500 +0100" channel="Sport TV + HD">
+  <programme start="20181006131000 +0100" stop="20181006135500 +0100" channel="SPTV + HD">
     <title lang="pt">Futebol</title>
     <desc lang="pt">Magazine dos melhores momentos da Taça Libertadores da América(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_23214070/16_9/325/244" />
   </programme>
-  <programme start="20181006135500 +0100" stop="20181006141500 +0100" channel="Sport TV + HD">
+  <programme start="20181006135500 +0100" stop="20181006141500 +0100" channel="SPTV + HD">
     <title lang="pt">Notícias</title>
     <desc lang="pt">As últimas notícias desportivas, na sua Sport TV(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_23167589/16_9/325/244" />
   </programme>
-  <programme start="20181006141500 +0100" stop="20181006145500 +0100" channel="Sport TV + HD">
+  <programme start="20181006141500 +0100" stop="20181006145500 +0100" channel="SPTV + HD">
     <title lang="pt">Resumos: Copa Sul-Americana</title>
     <desc lang="pt">Destaque para a Copa Sul-Americana de futebol(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_22593353/16_9/325/244" />
   </programme>
-  <programme start="20181006145500 +0100" stop="20181006180000 +0100" channel="Sport TV + HD">
+  <programme start="20181006145500 +0100" stop="20181006180000 +0100" channel="SPTV + HD">
     <title lang="pt">Grande Jornada</title>
     <desc lang="pt">Acompanhamento exaustivo da jornada com sinalização de golos, resultados e classificações. Antevisões e rescaldos em direto, bem como resumos dos jogos dos principais campeonatos(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_23174564/16_9/325/244" />
   </programme>
-  <programme start="20181006180000 +0100" stop="20181006203000 +0100" channel="Sport TV + HD">
+  <programme start="20181006180000 +0100" stop="20181006203000 +0100" channel="SPTV + HD">
     <title lang="pt">Grande Jornada</title>
     <desc lang="pt">Acompanhamento exaustivo da jornada com sinalização de golos, resultados e classificações. Antevisões e rescaldos em direto, bem como resumos dos jogos dos principais campeonatos(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_23174564/16_9/325/244" />
   </programme>
-  <programme start="20181006203000 +0100" stop="20181006232500 +0100" channel="Sport TV + HD">
+  <programme start="20181006203000 +0100" stop="20181006232500 +0100" channel="SPTV + HD">
     <title lang="pt">Grande Jornada</title>
     <desc lang="pt">Acompanhamento exaustivo da jornada com sinalização de golos, resultados e classificações. Antevisões e rescaldos em direto, bem como resumos dos jogos dos principais campeonatos(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_23174564/16_9/325/244" />
   </programme>
-  <programme start="20181006232500 +0100" stop="20181006235500 +0100" channel="Sport TV + HD">
+  <programme start="20181006232500 +0100" stop="20181006235500 +0100" channel="SPTV + HD">
     <title lang="pt">Manchester United x Newcastle: Premier League</title>
     <desc lang="pt">Transmissão do confronto entre Manchester United x Newcastle(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_22951975/16_9/325/244" />
   </programme>
-  <programme start="20181006235500 +0100" stop="20181007010000 +0100" channel="Sport TV + HD">
+  <programme start="20181006235500 +0100" stop="20181007010000 +0100" channel="SPTV + HD">
     <title lang="pt">Últimas</title>
     <desc lang="pt">Espaço para toda a informação desportiva(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+ HD_2270365/16_9/325/244" />
@@ -2971,122 +2971,122 @@
     <desc lang="pt">Assinalando os 20 anos da atribuição do Prémio Nobel da Literatura, em 1998, a RTP2 apresenta o romance de José Saramago na adaptação do grupo de teatro A Barraca. A história de seis famílias que habitam um prédio da Lisboa remediada dos anos 50(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP 2_13281025/16_9/325/244" />
   </programme>
-  <programme start="20181006010000 +0100" stop="20181006013000 +0100" channel="Sport TV +">
+  <programme start="20181006010000 +0100" stop="20181006013000 +0100" channel="SPTV +">
     <title lang="pt">Rali Grã Bretanha</title>
     <desc lang="pt">Não perca os melhores momentos da mais emocionante prova de automobilismo do mundo, o WRC(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_12951537/16_9/325/244" />
   </programme>
-  <programme start="20181006013000 +0100" stop="20181006022000 +0100" channel="Sport TV +">
+  <programme start="20181006013000 +0100" stop="20181006022000 +0100" channel="SPTV +">
     <title lang="pt">Tuf 28</title>
     <desc lang="pt">Transmissão do confronto entre Whittaker x Gastelum(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_12951536/16_9/325/244" />
   </programme>
-  <programme start="20181006022000 +0100" stop="20181006035500 +0100" channel="Sport TV +">
+  <programme start="20181006022000 +0100" stop="20181006035500 +0100" channel="SPTV +">
     <title lang="pt">Aposta Tripla</title>
     <desc lang="pt">Programa de debate sobre a antevisão da jornada da Primeira Liga de futebol e sobre os grandes temas da atualidade, com preponderância para os relacionados com os três grandes do futebol português(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_13220382/16_9/325/244" />
   </programme>
-  <programme start="20181006035500 +0100" stop="20181006043000 +0100" channel="Sport TV +">
+  <programme start="20181006035500 +0100" stop="20181006043000 +0100" channel="SPTV +">
     <title lang="pt">Boxe</title>
     <desc lang="pt">Magazine dedicado ao Boxe(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_13165387/16_9/325/244" />
   </programme>
-  <programme start="20181006043000 +0100" stop="20181006050000 +0100" channel="Sport TV +">
+  <programme start="20181006043000 +0100" stop="20181006050000 +0100" channel="SPTV +">
     <title lang="pt">Rugby</title>
     <desc lang="pt">Magazine dedicado ao mundo do rugby(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_13165335/16_9/325/244" />
   </programme>
-  <programme start="20181006050000 +0100" stop="20181006060000 +0100" channel="Sport TV +">
+  <programme start="20181006050000 +0100" stop="20181006060000 +0100" channel="SPTV +">
     <title lang="pt">França</title>
     <desc lang="pt">Acompanhe o principal campeonato a nível mundial de corrida de superbike(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_12951327/16_9/325/244" />
   </programme>
-  <programme start="20181006060000 +0100" stop="20181006070000 +0100" channel="Sport TV +">
+  <programme start="20181006060000 +0100" stop="20181006070000 +0100" channel="SPTV +">
     <title lang="pt">Golfe</title>
     <desc lang="pt">Magazine dedicado ao mundo do golfe(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_13165370/16_9/325/244" />
   </programme>
-  <programme start="20181006070000 +0100" stop="20181006081000 +0100" channel="Sport TV +">
+  <programme start="20181006070000 +0100" stop="20181006081000 +0100" channel="SPTV +">
     <title lang="pt">GP Japão</title>
     <desc lang="pt">Destaque para o Grande Prémio do Japão, a partir do circuito de Suzuka. que recebeu o primeiro Grande Prémio pela primeira vez em 1987. Este circuito de alta velocidade continua a ser um dos maiores desafios de condução para os pilotos, com as famosas curvas sinuosas em "S"(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_12951973/16_9/325/244" />
   </programme>
-  <programme start="20181006081000 +0100" stop="20181006084500 +0100" channel="Sport TV +">
+  <programme start="20181006081000 +0100" stop="20181006084500 +0100" channel="SPTV +">
     <title lang="pt">Rali Grã Bretanha</title>
     <desc lang="pt">Não perca os melhores momentos da mais emocionante prova de automobilismo do mundo, o WRC(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_12951537/16_9/325/244" />
   </programme>
-  <programme start="20181006084500 +0100" stop="20181006090500 +0100" channel="Sport TV +">
+  <programme start="20181006084500 +0100" stop="20181006090500 +0100" channel="SPTV +">
     <title lang="pt">Golos da 2ª Jornada da Fase de Grupos: Liga Europa</title>
     <desc lang="pt">A Liga Europa da UEFA, prova que substituiu a Taça UEFA, nasceu de uma ideia concebida pelo suíço Ernst Thommen, juntamente com o italiano Ottorino Barrasi e o inglês Stanley Rous. Acompanhe jogos, resumos e toda a informação sobre esta competição(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_12954631/16_9/325/244" />
   </programme>
-  <programme start="20181006090500 +0100" stop="20181006100500 +0100" channel="Sport TV +">
+  <programme start="20181006090500 +0100" stop="20181006100500 +0100" channel="SPTV +">
     <title lang="pt">GP Tailândia</title>
     <desc lang="pt">A Moto2 é a classe de quatro tempos de 600cc. Acompanhe o Grande Prémio da Tailândia em Moto2(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_12952011/16_9/325/244" />
   </programme>
-  <programme start="20181006100500 +0100" stop="20181006102000 +0100" channel="Sport TV +">
+  <programme start="20181006100500 +0100" stop="20181006102000 +0100" channel="SPTV +">
     <title lang="pt">Notícias</title>
     <desc lang="pt">As últimas notícias desportivas, na sua Sport TV(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_13167589/16_9/325/244" />
   </programme>
-  <programme start="20181006102000 +0100" stop="20181006110500 +0100" channel="Sport TV +">
+  <programme start="20181006102000 +0100" stop="20181006110500 +0100" channel="SPTV +">
     <title lang="pt">Rui Rio: Cultura Tática</title>
     <desc lang="pt">António Simões convida personalidades relevantes da cultura e da sociedade portuguesas para uma conversa sobre desporto. Atores, escritores, políticos, cantores, etc. vão revelar a sua ligação ao fenómeno desportivo e visão diferente sobre os factos que compõem este mundo(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_12952487/16_9/325/244" />
   </programme>
-  <programme start="20181006110500 +0100" stop="20181006115500 +0100" channel="Sport TV +">
+  <programme start="20181006110500 +0100" stop="20181006115500 +0100" channel="SPTV +">
     <title lang="pt">Wrestling: Smackdown</title>
     <desc lang="pt">O WWE Smackdown apresenta os melhores lutadores, golpes e as melhores imagens, em exclusivo(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_12805390/16_9/325/244" />
   </programme>
-  <programme start="20181006115500 +0100" stop="20181006124000 +0100" channel="Sport TV +">
+  <programme start="20181006115500 +0100" stop="20181006124000 +0100" channel="SPTV +">
     <title lang="pt">Notícias</title>
     <desc lang="pt">As últimas notícias desportivas, na sua Sport TV(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_13167589/16_9/325/244" />
   </programme>
-  <programme start="20181006124000 +0100" stop="20181006131000 +0100" channel="Sport TV +">
+  <programme start="20181006124000 +0100" stop="20181006131000 +0100" channel="SPTV +">
     <title lang="pt">Bar SportTV</title>
     <desc lang="pt">Programa com três convidados, em que o principal objetivo é contar histórias curiosas do futebol do passado(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_13176956/16_9/325/244" />
   </programme>
-  <programme start="20181006131000 +0100" stop="20181006135500 +0100" channel="Sport TV +">
+  <programme start="20181006131000 +0100" stop="20181006135500 +0100" channel="SPTV +">
     <title lang="pt">Futebol</title>
     <desc lang="pt">Magazine dos melhores momentos da Taça Libertadores da América(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_13214070/16_9/325/244" />
   </programme>
-  <programme start="20181006135500 +0100" stop="20181006141500 +0100" channel="Sport TV +">
+  <programme start="20181006135500 +0100" stop="20181006141500 +0100" channel="SPTV +">
     <title lang="pt">Notícias</title>
     <desc lang="pt">As últimas notícias desportivas, na sua Sport TV(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_13167589/16_9/325/244" />
   </programme>
-  <programme start="20181006141500 +0100" stop="20181006145500 +0100" channel="Sport TV +">
+  <programme start="20181006141500 +0100" stop="20181006145500 +0100" channel="SPTV +">
     <title lang="pt">Resumos: Copa Sul-Americana</title>
     <desc lang="pt">Destaque para a Copa Sul-Americana de futebol(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_12593353/16_9/325/244" />
   </programme>
-  <programme start="20181006145500 +0100" stop="20181006180000 +0100" channel="Sport TV +">
+  <programme start="20181006145500 +0100" stop="20181006180000 +0100" channel="SPTV +">
     <title lang="pt">Grande Jornada</title>
     <desc lang="pt">Acompanhamento exaustivo da jornada com sinalização de golos, resultados e classificações. Antevisões e rescaldos em direto, bem como resumos dos jogos dos principais campeonatos(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_13174564/16_9/325/244" />
   </programme>
-  <programme start="20181006180000 +0100" stop="20181006203000 +0100" channel="Sport TV +">
+  <programme start="20181006180000 +0100" stop="20181006203000 +0100" channel="SPTV +">
     <title lang="pt">Grande Jornada</title>
     <desc lang="pt">Acompanhamento exaustivo da jornada com sinalização de golos, resultados e classificações. Antevisões e rescaldos em direto, bem como resumos dos jogos dos principais campeonatos(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_13174564/16_9/325/244" />
   </programme>
-  <programme start="20181006203000 +0100" stop="20181006232500 +0100" channel="Sport TV +">
+  <programme start="20181006203000 +0100" stop="20181006232500 +0100" channel="SPTV +">
     <title lang="pt">Grande Jornada</title>
     <desc lang="pt">Acompanhamento exaustivo da jornada com sinalização de golos, resultados e classificações. Antevisões e rescaldos em direto, bem como resumos dos jogos dos principais campeonatos(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_13174564/16_9/325/244" />
   </programme>
-  <programme start="20181006232500 +0100" stop="20181006235500 +0100" channel="Sport TV +">
+  <programme start="20181006232500 +0100" stop="20181006235500 +0100" channel="SPTV +">
     <title lang="pt">Manchester United x Newcastle: Premier League</title>
     <desc lang="pt">Transmissão do confronto entre Manchester United x Newcastle(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_12951975/16_9/325/244" />
   </programme>
-  <programme start="20181006235500 +0100" stop="20181007010000 +0100" channel="Sport TV +">
+  <programme start="20181006235500 +0100" stop="20181007010000 +0100" channel="SPTV +">
     <title lang="pt">Últimas</title>
     <desc lang="pt">Espaço para toda a informação desportiva(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV+_1270365/16_9/325/244" />
@@ -8262,170 +8262,170 @@
     <desc lang="pt">Marinette é baby-sitter de Manon, uma menina um pouco mimada que quer brincar com as bonecas da Ladybug e do Gato Noir. Marinette não lhe empresta as bonecas e esta fica furiosa. Contaminada por um "Akuma", transforma-se em Pupeteer e é capaz de controlar as bonecas da Marinette(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/DISNEY_12605017/16_9/325/244" />
   </programme>
-  <programme start="20181006005700 +0100" stop="20181006014300 +0100" channel="RTP 1 HD">
+  <programme start="20181006005700 +0100" stop="20181006014300 +0100" channel="RTP 1FHD">
     <title lang="pt">Aqui Tão Longe</title>
     <desc lang="pt">Afonso vive um misto de emoções depois de conhecer Andreia. Por um lado, é estranho conhecer a filha que a mulher teve com outro homem e por outro, sente que parte da mulher regressou. Andreia janta em casa de Julio e Pedro sente alguma desconfiança dela(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22514769/16_9/325/244" />
     <episode-num system="onscreen">E18</episode-num>
   </programme>
-  <programme start="20181006014300 +0100" stop="20181006024200 +0100" channel="RTP 1 HD">
+  <programme start="20181006014300 +0100" stop="20181006024200 +0100" channel="RTP 1FHD">
     <title lang="pt">Versailles</title>
     <desc lang="pt">Montespan sela um pacto com o Diabo participando numa missa negra organizada pelo padre Etienne Guibourg. Fabien e os seus homens interrompem o rito satânico, mas Montespan consegue escapar sem ser vista. Palatine fica angustiada quando descobre que o seu povo foi dizimado pelos exércitos do Rei(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22751149/16_9/325/244" />
     <episode-num system="onscreen">S2 E9</episode-num>
   </programme>
-  <programme start="20181006024200 +0100" stop="20181006042300 +0100" channel="RTP 1 HD">
+  <programme start="20181006024200 +0100" stop="20181006042300 +0100" channel="RTP 1FHD">
     <title lang="pt">Sandra Correia</title>
     <desc lang="pt">A voz da fadista Sandra Correia já foi descrita como sendo capaz de nos levar às lágrimas, tal é o arrebatamento e a verdade que se sente. Neste concerto, gravado em Santa Maria da Feira, poderemos testemunhar isso mesmo e também alguns cruzamentos musicais menos habituais(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_23281466/16_9/325/244" />
   </programme>
-  <programme start="20181006042300 +0100" stop="20181006045600 +0100" channel="RTP 1 HD">
+  <programme start="20181006042300 +0100" stop="20181006045600 +0100" channel="RTP 1FHD">
     <title lang="pt">Lusa Music Box</title>
     <desc lang="pt">Convidados, via Skype: Mónica Pereira (Paris, França) e Bruna Vilaça (Toronto, Canadá). Videoclips: "Toca no meu tambor" e "Beijo na boca" (Mónica Pereira); "Alone" e "Fire" (Bruna Vilaça)(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22945177/16_9/325/244" />
     <episode-num system="onscreen">S1 E35</episode-num>
   </programme>
-  <programme start="20181006045600 +0100" stop="20181006054100 +0100" channel="RTP 1 HD">
+  <programme start="20181006045600 +0100" stop="20181006054100 +0100" channel="RTP 1FHD">
     <title lang="pt">Televendas</title>
     <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_235523/16_9/325/244" />
   </programme>
-  <programme start="20181006054100 +0100" stop="20181006063000 +0100" channel="RTP 1 HD">
+  <programme start="20181006054100 +0100" stop="20181006063000 +0100" channel="RTP 1FHD">
     <title lang="pt">Viva a Música</title>
     <desc lang="pt">"Eu sou tudo isto" afirma Zara Tejo no seu disco mais recente, escolhendo assim para título como que uma espécie de declaração de princípios revelada num punhado de canções. E tudo isto vai ser desvendado na próxima emissão do Viva a Música, quando Zara Tejo subir ao Palco da Rádio(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22945178/16_9/325/244" />
     <episode-num system="onscreen">S1 E20</episode-num>
   </programme>
-  <programme start="20181006063000 +0100" stop="20181006063100 +0100" channel="RTP 1 HD">
+  <programme start="20181006063000 +0100" stop="20181006063100 +0100" channel="RTP 1FHD">
     <title lang="pt">Zig Zag</title>
     <desc lang="pt">O Gabi e a Filó entraram na casa do Zig Zag e parece que tão cedo não a vão abandonar! Filó, uma gata muito inteligente que sabe muitas coisas e quer ensiná-las, Gabi, um cão muito divertido, que o que mais gosta é de brincar. Os dois são grandes amigos e vão viver muitas situações engraçadas(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_2326269/16_9/325/244" />
   </programme>
-  <programme start="20181006063100 +0100" stop="20181006063200 +0100" channel="RTP 1 HD">
+  <programme start="20181006063100 +0100" stop="20181006063200 +0100" channel="RTP 1FHD">
     <title lang="pt">Movimento Gentil</title>
     <desc lang="pt">Crianças, jovens e professores de várias escolas da rede UNESCO dão o seu testemunho sobre a Gentileza(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22948498/16_9/325/244" />
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20181006063200 +0100" stop="20181006063800 +0100" channel="RTP 1 HD">
+  <programme start="20181006063200 +0100" stop="20181006063800 +0100" channel="RTP 1FHD">
     <title lang="pt">Movimento Gentil</title>
     <desc lang="pt">Crianças, jovens e professores de várias escolas, da rede Unesco, dão o seu testemunho sobre a Gentileza(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22949835/16_9/325/244" />
   </programme>
-  <programme start="20181006063800 +0100" stop="20181006064500 +0100" channel="RTP 1 HD">
+  <programme start="20181006063800 +0100" stop="20181006064500 +0100" channel="RTP 1FHD">
     <title lang="pt">Paula</title>
     <desc lang="pt">Vem viver as aventuras de Punky, a sua família e seus amigos(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22765211/16_9/325/244" />
     <episode-num system="onscreen">E9</episode-num>
   </programme>
-  <programme start="20181006064500 +0100" stop="20181006065600 +0100" channel="RTP 1 HD">
+  <programme start="20181006064500 +0100" stop="20181006065600 +0100" channel="RTP 1FHD">
     <title lang="pt">Jelly Jamm</title>
     <desc lang="pt">Jelly Jamm celebra a música, a diversão e a amizade. Bello e os seus amigos vivem divertidas aventuras à medida que aprendem a viver em harmonia no mágico planeta Jammbo, a origem da música no universo(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22778599/16_9/325/244" />
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20181006065600 +0100" stop="20181006071100 +0100" channel="RTP 1 HD">
+  <programme start="20181006065600 +0100" stop="20181006071100 +0100" channel="RTP 1FHD">
     <title lang="pt">Zig Zag</title>
     <desc lang="pt">O Gabi e a Filó entraram na casa do Zig Zag e parece que tão cedo não a vão abandonar! Filó, uma gata muito inteligente que sabe muitas coisas e quer ensiná-las, Gabi, um cão muito divertido, que o que mais gosta é de brincar. Os dois são grandes amigos e vão viver muitas situações engraçadas(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22790105/16_9/325/244" />
     <episode-num system="onscreen">S20 E48</episode-num>
   </programme>
-  <programme start="20181006071100 +0100" stop="20181006071800 +0100" channel="RTP 1 HD">
+  <programme start="20181006071100 +0100" stop="20181006071800 +0100" channel="RTP 1FHD">
     <title lang="pt">Histórias Aos Quadradinhos</title>
     <desc lang="pt">Quadro de Marques Oliveira; texto de Gonçalo M. Tavares; ator Sérgio Praia(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22489884/16_9/325/244" />
     <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20181006071800 +0100" stop="20181006072900 +0100" channel="RTP 1 HD">
+  <programme start="20181006071800 +0100" stop="20181006072900 +0100" channel="RTP 1FHD">
     <title lang="pt">Thomas e os Seus Amigos</title>
     <desc lang="pt">Baseada na coleção de livros criada por Wilbert Awdry, esta série vai levar-te até à ilha de Sodor onde vais embarcar numa viagem cheia de aventuras com Tomás e os seus amigos(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22790112/16_9/325/244" />
     <episode-num system="onscreen">S18 E9</episode-num>
   </programme>
-  <programme start="20181006072900 +0100" stop="20181006074100 +0100" channel="RTP 1 HD">
+  <programme start="20181006072900 +0100" stop="20181006074100 +0100" channel="RTP 1FHD">
     <title lang="pt">Gawayn</title>
     <desc lang="pt">Esta é uma aventura entre homens valentes que querem salvar a princesa Gwendolina(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22783631/16_9/325/244" />
     <episode-num system="onscreen">S1 E26</episode-num>
   </programme>
-  <programme start="20181006074100 +0100" stop="20181006074500 +0100" channel="RTP 1 HD">
+  <programme start="20181006074100 +0100" stop="20181006074500 +0100" channel="RTP 1FHD">
     <title lang="pt">Movimento Gentil</title>
     <desc lang="pt">Crianças, jovens e professores de várias escolas, da rede Unesco, dão o seu testemunho sobre a Gentileza(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22949833/16_9/325/244" />
   </programme>
-  <programme start="20181006074500 +0100" stop="20181006075100 +0100" channel="RTP 1 HD">
+  <programme start="20181006074500 +0100" stop="20181006075100 +0100" channel="RTP 1FHD">
     <title lang="pt">Rita e o Não Sei Quê</title>
     <desc lang="pt">Rita gosta de se vestir com roupas da mãe, correndo por toda parte. Não Sei Quê gosta de mastigar objetos, dormir e fazer batota a jogar damas. Eles são os melhores amigos do mundo(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22766045/16_9/325/244" />
     <episode-num system="onscreen">E21</episode-num>
   </programme>
-  <programme start="20181006075100 +0100" stop="20181006075600 +0100" channel="RTP 1 HD">
+  <programme start="20181006075100 +0100" stop="20181006075600 +0100" channel="RTP 1FHD">
     <title lang="pt">Movimento Gentil</title>
     <desc lang="pt">Crianças, jovens e professores de várias escolas, da rede Unesco, dão o seu testemunho sobre a Gentileza(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22949836/16_9/325/244" />
   </programme>
-  <programme start="20181006075600 +0100" stop="20181006080000 +0100" channel="RTP 1 HD">
+  <programme start="20181006075600 +0100" stop="20181006080000 +0100" channel="RTP 1FHD">
     <title lang="pt">Movimento Gentil</title>
     <desc lang="pt">Crianças, jovens e professores de várias escolas da rede UNESCO dão o seu testemunho sobre a Gentileza(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22947678/16_9/325/244" />
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20181006080000 +0100" stop="20181006095700 +0100" channel="RTP 1 HD">
+  <programme start="20181006080000 +0100" stop="20181006095700 +0100" channel="RTP 1FHD">
     <title lang="pt">Bom Dia Portugal</title>
     <desc lang="pt">Um espaço em que se dá relevo às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_2326260/16_9/325/244" />
   </programme>
-  <programme start="20181006095700 +0100" stop="20181006110000 +0100" channel="RTP 1 HD">
+  <programme start="20181006095700 +0100" stop="20181006110000 +0100" channel="RTP 1FHD">
     <title lang="pt">Uma Mesa Portuguesa Com Certeza... em Portugal</title>
     <desc lang="pt">Com "Uma Mesa Portuguesa" conhecemos alguns dos nossos melhores embaixadores à mesa. Experimentámos o gosto de viajar, seguindo o rasto da cultura portuguesa pelos quatro cantos mundo, através da nossa gastronomia(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22417486/16_9/325/244" />
     <episode-num system="onscreen">S2 E18</episode-num>
   </programme>
-  <programme start="20181006110000 +0100" stop="20181006130000 +0100" channel="RTP 1 HD">
+  <programme start="20181006110000 +0100" stop="20181006130000 +0100" channel="RTP 1FHD">
     <title lang="pt">Regata de Portugal, um Mar de Portugueses</title>
     <desc lang="pt">Lisboa acolhe a primeira edição da Regata de Portugal, um evento de entrada livre que pretende celebrar a ligação dos portugueses ao mar. A Regata decorre no Terminal de Cruzeiros de Lisboa e é a etapa portuguesa do mais importante circuito de vela profissional do mundo, o World Match Racing Tour(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_23281012/16_9/325/244" />
   </programme>
-  <programme start="20181006130000 +0100" stop="20181006141000 +0100" channel="RTP 1 HD">
+  <programme start="20181006130000 +0100" stop="20181006141000 +0100" channel="RTP 1FHD">
     <title lang="pt">Jornal da Tarde</title>
     <desc lang="pt">Todos os dias, às 13 horas, as notícias que marcam a atualidade nacional e mundial. Reportagens no local, entrevistas em direto e sempre a isenção e o respeito pela verdade que marcam a informação na RTP(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_2326249/16_9/325/244" />
   </programme>
-  <programme start="20181006141000 +0100" stop="20181006143700 +0100" channel="RTP 1 HD">
+  <programme start="20181006141000 +0100" stop="20181006143700 +0100" channel="RTP 1FHD">
     <title lang="pt">Voz do Cidadão</title>
     <desc lang="pt">Programa da responsabilidade de Jorge Wemans, Provedor do Telespectador, sendo exibido regularmente através de todos os canais do Serviço Público de Televisão, reflete o tratamento dos casos mais significativos trazidos à apreciação do Provedor pelos telespectadores em cada semana(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22951860/16_9/325/244" />
     <episode-num system="onscreen">S7 E32</episode-num>
   </programme>
-  <programme start="20181006143700 +0100" stop="20181006195900 +0100" channel="RTP 1 HD">
+  <programme start="20181006143700 +0100" stop="20181006195900 +0100" channel="RTP 1FHD">
     <title lang="pt">Regata de Portugal, um Mar de Portugueses</title>
     <desc lang="pt">Lisboa acolhe a primeira edição da Regata de Portugal, um evento de entrada livre que pretende celebrar a ligação dos portugueses ao mar. A Regata decorre no Terminal de Cruzeiros de Lisboa e é a etapa portuguesa do mais importante circuito de vela profissional do mundo, o World Match Racing Tour(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_23281012/16_9/325/244" />
   </programme>
-  <programme start="20181006195900 +0100" stop="20181006210000 +0100" channel="RTP 1 HD">
+  <programme start="20181006195900 +0100" stop="20181006210000 +0100" channel="RTP 1FHD">
     <title lang="pt">Telejornal</title>
     <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou no país e no mundo. Se é importante, está no Telejornal(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_2326252/16_9/325/244" />
   </programme>
-  <programme start="20181006210000 +0100" stop="20181006215500 +0100" channel="RTP 1 HD">
+  <programme start="20181006210000 +0100" stop="20181006215500 +0100" channel="RTP 1FHD">
     <title lang="pt">Donos Disto Tudo</title>
     <desc lang="pt">Neste Donos Disto Tudo, descubra o café a que vão todas as estrelas internacionais(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22951861/16_9/325/244" />
     <episode-num system="onscreen">S4 E27</episode-num>
   </programme>
-  <programme start="20181006215500 +0100" stop="20181006225400 +0100" channel="RTP 1 HD">
+  <programme start="20181006215500 +0100" stop="20181006225400 +0100" channel="RTP 1FHD">
     <title lang="pt">Verão M</title>
     <desc lang="pt">Diego recebe uma ordem de despejo e vê-se na iminência de ter de abandonar Moledo. Os miúdos não querem que ele vá embora e tentam ajudá-lo. Vão à procura do irmão de Diego para que este possa comprar o terreno, mas descobrem que entre os irmãos há uma mágoa antiga que não será fácil de curar.(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22951889/16_9/325/244" />
     <episode-num system="onscreen">S1 E11</episode-num>
   </programme>
-  <programme start="20181006225400 +0100" stop="20181006234400 +0100" channel="RTP 1 HD">
+  <programme start="20181006225400 +0100" stop="20181006234400 +0100" channel="RTP 1FHD">
     <title lang="pt">Excursões Air Lino</title>
     <desc lang="pt">Um furo no autocarro da Air Lino obriga o grupo a almoçar no primeiro restaurante de leitão que encontram. Lá dentro, decorre um encontro de militantes de um grande partido, que os excursionistas invadem com o à vontade de quem elegeu alguns dos políticos que ali se encontram(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_22859680/16_9/325/244" />
     <episode-num system="onscreen">E7</episode-num>
   </programme>
-  <programme start="20181006234400 +0100" stop="20181007012800 +0100" channel="RTP 1 HD">
+  <programme start="20181006234400 +0100" stop="20181007012800 +0100" channel="RTP 1FHD">
     <title lang="pt">Maldito United</title>
     <desc lang="pt">A história de Brian Clough, um famoso treinador de futebol, e da sua breve carreira (44 dias) como manager do Leeds United. Brian decide aceitar o convite para treinar o Leeds United, anteriormente orientado pelo seu rival Don Revie(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP1 H_2130539/16_9/325/244" />
@@ -8996,62 +8996,62 @@
     <desc lang="pt">Toute l'actualité africaine proposée par la rédaction de TV5MONDE(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TV5MON_1311191/16_9/325/244" />
   </programme>
-  <programme start="20181006014000 +0100" stop="20181006020500 +0100" channel="TV Cine 2 HD">
+  <programme start="20181006014000 +0100" stop="20181006020500 +0100" channel="TV Cine 2FHD">
     <title lang="pt">Zoo</title>
     <desc lang="pt">Esta é a história de animais enjaulados sob o nosso olhar. Uma rotina que se repete vezes sem conta num passeio de família. Por vezes, a relação adulta aos olhos de uma criança pode-se assemelhar a uma selva ou um zoo(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_21260076/16_9/325/244" />
   </programme>
-  <programme start="20181006020500 +0100" stop="20181006034500 +0100" channel="TV Cine 2 HD">
+  <programme start="20181006020500 +0100" stop="20181006034500 +0100" channel="TV Cine 2FHD">
     <title lang="pt">O Meu Belo Sol Interior</title>
     <desc lang="pt">Isabelle é uma artista parisiense, mãe divorciada, em busca do amor. Por fim o amor ideal(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_21268654/16_9/325/244" />
   </programme>
-  <programme start="20181006034500 +0100" stop="20181006055500 +0100" channel="TV Cine 2 HD">
+  <programme start="20181006034500 +0100" stop="20181006055500 +0100" channel="TV Cine 2FHD">
     <title lang="pt">Zeus</title>
     <desc lang="pt">A história de Manuel Teixeira Gomes, o sétimo Presidente da República e também escritor, que publicou literatura erótica. Aos 65 anos, e passados apenas 26 meses no cargo, durante a ascensão do fascismo, larga tudo e vive exilado no Norte de África(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_21268634/16_9/325/244" />
   </programme>
-  <programme start="20181006055500 +0100" stop="20181006073000 +0100" channel="TV Cine 2 HD">
+  <programme start="20181006055500 +0100" stop="20181006073000 +0100" channel="TV Cine 2FHD">
     <title lang="pt">O Comboio das 3 e 10</title>
     <desc lang="pt">Aspirando a uma recompensa, um rancheiro endividado aceita escoltar um bandido terrível até à estação de comboios de uma cidade vizinha. Pelo caminho, tem de enfrentar os outros membros do gangue que o tentam libertar(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_21262622/16_9/325/244" />
   </programme>
-  <programme start="20181006073000 +0100" stop="20181006090500 +0100" channel="TV Cine 2 HD">
+  <programme start="20181006073000 +0100" stop="20181006090500 +0100" channel="TV Cine 2FHD">
     <title lang="pt">Desejo Humano</title>
     <desc lang="pt">De volta do Japão, o engenheiro e ex-militar Jeff é seduzido pela mulher do seu colega. Mais tarde, envolve-se num homicídio levado a cabo pelo casal(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_21260084/16_9/325/244" />
   </programme>
-  <programme start="20181006090500 +0100" stop="20181006110000 +0100" channel="TV Cine 2 HD">
+  <programme start="20181006090500 +0100" stop="20181006110000 +0100" channel="TV Cine 2FHD">
     <title lang="pt">Um Americano em Paris</title>
     <desc lang="pt">Jerry Mulligan, um ex-soldado americano, vive em Paris decidido a fazer carreira como pintor. O seu amigo Henri, o célebre ator do "music-hall", anuncia-lhe que vai casar com a bela e jovem Lise, exatamente a rapariga que Jerry conhece um dia por acaso, numa loja, e por quem se apaixona(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_21152609/16_9/325/244" />
   </programme>
-  <programme start="20181006110000 +0100" stop="20181006125000 +0100" channel="TV Cine 2 HD">
+  <programme start="20181006110000 +0100" stop="20181006125000 +0100" channel="TV Cine 2FHD">
     <title lang="pt">Ninguém é Santo</title>
     <desc lang="pt">Dois fugitivos à policia escondem-se numa igreja, onde fingem que são padres(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_21273102/16_9/325/244" />
   </programme>
-  <programme start="20181006125000 +0100" stop="20181006143500 +0100" channel="TV Cine 2 HD">
+  <programme start="20181006125000 +0100" stop="20181006143500 +0100" channel="TV Cine 2FHD">
     <title lang="pt">Pânico em Hollywood</title>
     <desc lang="pt">A vida de um produtor nos bastidores de Hollywood não é fácil! Ben tenta, em desespero, juntar em harmonia um ator narcisista que se recusa a cortar a barba, uma chefe que tem sempre a razão, um agente com várias úlceras nervosas, uma filha que não é tão inocente como parece e uma ex-mulher(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_214760/16_9/325/244" />
   </programme>
-  <programme start="20181006143500 +0100" stop="20181006164000 +0100" channel="TV Cine 2 HD">
+  <programme start="20181006143500 +0100" stop="20181006164000 +0100" channel="TV Cine 2FHD">
     <title lang="pt">Despertares</title>
     <desc lang="pt">Malcolm Sayer é um tímido médico, que utiliza um medicamento experimental para "despertar" vítimas catatónicas de uma doença rara. Leonard é o primeiro paciente a receber o controverso tratamento. O seu despertar, cheio de espanto e entusiasmo, prova ser um renascimento também para Sayer.(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_211972/16_9/325/244" />
   </programme>
-  <programme start="20181006164000 +0100" stop="20181006200000 +0100" channel="TV Cine 2 HD">
+  <programme start="20181006164000 +0100" stop="20181006200000 +0100" channel="TV Cine 2FHD">
     <title lang="pt">O Padrinho: Parte II</title>
     <desc lang="pt">Continuação da saga da vida da família Corleone. Num regresso às origens da família e à juventude do patriarca, o início da vida e carreira de Vito Corleone é recordado, ao mesmo que tempo que o filho Michael continua a progredir no mundo do crime em meados do século XX(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_216157/16_9/325/244" />
   </programme>
-  <programme start="20181006200000 +0100" stop="20181006220000 +0100" channel="TV Cine 2 HD">
+  <programme start="20181006200000 +0100" stop="20181006220000 +0100" channel="TV Cine 2FHD">
     <title lang="pt">Os Intocáveis</title>
     <desc lang="pt">No princípio dos anos 30, Elliott Ness e a sua equipa têm por missão conseguir pôr atrás das grades o rei do crime organizado, Al Capone(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_213668/16_9/325/244" />
   </programme>
-  <programme start="20181006220000 +0100" stop="20181007000500 +0100" channel="TV Cine 2 HD">
+  <programme start="20181006220000 +0100" stop="20181007000500 +0100" channel="TV Cine 2FHD">
     <title lang="pt">The Score</title>
     <desc lang="pt">Nick Wells, um ladrão de meia-idade, decide mudar de vida e dedicar-se a um negócio legal. No entanto, para salvar um velho amigo, Nick aceita fazer um último assalto com um dúbio parceiro. Só que aquilo que começou como uma aposta segura torna-se um jogo de alto risco.(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_215160/16_9/325/244" />
@@ -14280,92 +14280,92 @@
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/ODISSE_12765564/16_9/325/244" />
     <episode-num system="onscreen">S10 E8</episode-num>
   </programme>
-  <programme start="20181006000000 +0100" stop="20181006014000 +0100" channel="Sport TV 3 HD">
+  <programme start="20181006000000 +0100" stop="20181006014000 +0100" channel="SPTV 3FHD">
     <title lang="pt">Columbus x Carolina (Direto): Hóquei no Gelo</title>
     <desc lang="pt">Transmissão do confronto entre Columbus x Carolina(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV3 HD_22954634/16_9/325/244" />
   </programme>
-  <programme start="20181006014000 +0100" stop="20181006025000 +0100" channel="Sport TV 3 HD">
+  <programme start="20181006014000 +0100" stop="20181006025000 +0100" channel="SPTV 3FHD">
     <title lang="pt">Columbus x Carolina (3ª Parte) (Direto): Hóquei no Gelo</title>
     <desc lang="pt">Transmissão do confronto entre Columbus x Carolina(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV3 HD_22954635/16_9/325/244" />
   </programme>
-  <programme start="20181006025000 +0100" stop="20181006032000 +0100" channel="Sport TV 3 HD">
+  <programme start="20181006025000 +0100" stop="20181006032000 +0100" channel="SPTV 3FHD">
     <title lang="pt">Boxe</title>
     <desc lang="pt">Magazine dedicado ao Boxe(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV3 HD_23165387/16_9/325/244" />
   </programme>
-  <programme start="20181006032000 +0100" stop="20181006052000 +0100" channel="Sport TV 3 HD">
+  <programme start="20181006032000 +0100" stop="20181006052000 +0100" channel="SPTV 3FHD">
     <title lang="pt">Sem Emissão</title>
     <desc lang="pt">Sem Emissão(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV3 HD_2315924/16_9/325/244" />
   </programme>
-  <programme start="20181006052000 +0100" stop="20181006072000 +0100" channel="Sport TV 3 HD">
+  <programme start="20181006052000 +0100" stop="20181006072000 +0100" channel="SPTV 3FHD">
     <title lang="pt">Sem Emissão</title>
     <desc lang="pt">Sem Emissão(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV3 HD_2315924/16_9/325/244" />
   </programme>
-  <programme start="20181006072000 +0100" stop="20181006080000 +0100" channel="Sport TV 3 HD">
+  <programme start="20181006072000 +0100" stop="20181006080000 +0100" channel="SPTV 3FHD">
     <title lang="pt">Sem Emissão</title>
     <desc lang="pt">Sem Emissão(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV3 HD_2315924/16_9/325/244" />
   </programme>
-  <programme start="20181006080000 +0100" stop="20181006083000 +0100" channel="Sport TV 3 HD">
+  <programme start="20181006080000 +0100" stop="20181006083000 +0100" channel="SPTV 3FHD">
     <title lang="pt">Rugby</title>
     <desc lang="pt">Magazine dedicado ao mundo do rugby(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV3 HD_23165335/16_9/325/244" />
   </programme>
-  <programme start="20181006083000 +0100" stop="20181006103000 +0100" channel="Sport TV 3 HD">
+  <programme start="20181006083000 +0100" stop="20181006103000 +0100" channel="SPTV 3FHD">
     <title lang="pt">Belenenses x AA Coimbra: Rugby</title>
     <desc lang="pt">Transmissão do confronto entre Belenenses x AA Coimbra(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV3 HD_22951985/16_9/325/244" />
   </programme>
-  <programme start="20181006103000 +0100" stop="20181006122000 +0100" channel="Sport TV 3 HD">
+  <programme start="20181006103000 +0100" stop="20181006122000 +0100" channel="SPTV 3FHD">
     <title lang="pt">Sporting x Benfica: Voleibol</title>
     <desc lang="pt">Transmissão do confronto entre Sporting x Benfica(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV3 HD_22951506/16_9/325/244" />
   </programme>
-  <programme start="20181006122000 +0100" stop="20181006125000 +0100" channel="Sport TV 3 HD">
+  <programme start="20181006122000 +0100" stop="20181006125000 +0100" channel="SPTV 3FHD">
     <title lang="pt">Resumo da Jornada: Andebol</title>
     <desc lang="pt">A Liga dos campeões de andebol, aqui na sua SportTV(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV3 HD_22947581/16_9/325/244" />
   </programme>
-  <programme start="20181006125000 +0100" stop="20181006140000 +0100" channel="Sport TV 3 HD">
+  <programme start="20181006125000 +0100" stop="20181006140000 +0100" channel="SPTV 3FHD">
     <title lang="pt">GP Japão</title>
     <desc lang="pt">Destaque para o Grande Prémio do Japão, a partir do circuito de Suzuka. que recebeu o primeiro Grande Prémio pela primeira vez em 1987. Este circuito de alta velocidade continua a ser um dos maiores desafios de condução para os pilotos, com as famosas curvas sinuosas em "S"(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV3 HD_22951977/16_9/325/244" />
   </programme>
-  <programme start="20181006140000 +0100" stop="20181006161000 +0100" channel="Sport TV 3 HD">
+  <programme start="20181006140000 +0100" stop="20181006161000 +0100" channel="SPTV 3FHD">
     <title lang="pt">Pequim</title>
     <desc lang="pt">Acompanhamento dos Torneios ATP World Tour 500(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV3 HD_22390857/16_9/325/244" />
   </programme>
-  <programme start="20181006161000 +0100" stop="20181006170000 +0100" channel="Sport TV 3 HD">
+  <programme start="20181006161000 +0100" stop="20181006170000 +0100" channel="SPTV 3FHD">
     <title lang="pt">Futebol</title>
     <desc lang="pt">Magazine dos melhores momentos da Taça Libertadores da América(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV3 HD_23214070/16_9/325/244" />
   </programme>
-  <programme start="20181006170000 +0100" stop="20181006190000 +0100" channel="Sport TV 3 HD">
+  <programme start="20181006170000 +0100" stop="20181006190000 +0100" channel="SPTV 3FHD">
     <title lang="pt">Udinese x Juventus (Direto): Liga Italiana</title>
     <desc lang="pt">Transmissão do confronto entre Udinese x Juventus(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV3 HD_22246829/16_9/325/244" />
   </programme>
-  <programme start="20181006190000 +0100" stop="20181006193000 +0100" channel="Sport TV 3 HD">
+  <programme start="20181006190000 +0100" stop="20181006193000 +0100" channel="SPTV 3FHD">
     <title lang="pt">Basquetebol</title>
     <desc lang="pt">Acompanhe o NBA Action, o magazine que destaca todos os principais momentos do NBA(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV3 HD_23196704/16_9/325/244" />
   </programme>
-  <programme start="20181006193000 +0100" stop="20181006213000 +0100" channel="Sport TV 3 HD">
+  <programme start="20181006193000 +0100" stop="20181006213000 +0100" channel="SPTV 3FHD">
     <title lang="pt">Empoli x AS Roma (Direto): Liga Italiana</title>
     <desc lang="pt">Transmissão do confronto entre Empoli x AS Roma(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV3 HD_22952002/16_9/325/244" />
   </programme>
-  <programme start="20181006213000 +0100" stop="20181006220000 +0100" channel="Sport TV 3 HD">
+  <programme start="20181006213000 +0100" stop="20181006220000 +0100" channel="SPTV 3FHD">
     <title lang="pt">Manchester United x Newcastle: Premier League</title>
     <desc lang="pt">Transmissão do confronto entre Manchester United x Newcastle(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV3 HD_22951975/16_9/325/244" />
   </programme>
-  <programme start="20181006220000 +0100" stop="20181007000000 +0100" channel="Sport TV 3 HD">
+  <programme start="20181006220000 +0100" stop="20181007000000 +0100" channel="SPTV 3FHD">
     <title lang="pt">Enfusion 72</title>
     <desc lang="pt">Acompanhe um dos mais entusiasmantes desportos de combate, o Kickboxing(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV3 HD_22952003/16_9/325/244" />
@@ -16322,62 +16322,62 @@
     <desc lang="pt">Uma seleção dos mais originais e improváveis videoclips do momento, sem playlists sem repetições(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/180_139021/16_9/325/244" />
   </programme>
-  <programme start="20181006013000 +0100" stop="20181006035000 +0100" channel="TV Cine 1 HD">
+  <programme start="20181006013000 +0100" stop="20181006035000 +0100" channel="TV Cine 1FHD">
     <title lang="pt">A Cidade Perdida de Z</title>
     <desc lang="pt">A história do explorador inglês Percy Fawcett que, no início do século XX, descobre na Amazónia provas de uma civilização desconhecida. Ridicularizado pela comunidade científica, Fawcett regressa para provar a teoria, mas desaparece misteriosamente(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC1 HD_21260052/16_9/325/244" />
   </programme>
-  <programme start="20181006035000 +0100" stop="20181006053500 +0100" channel="TV Cine 1 HD">
+  <programme start="20181006035000 +0100" stop="20181006053500 +0100" channel="TV Cine 1FHD">
     <title lang="pt">Lego Ninjago: O Filme (V.O.)</title>
     <desc lang="pt">A batalha pela cidade de Ninjago pede a ação do jovem Lloyd, mais conhecido como o Ninja Verde, juntamente com os seus amigos que, secretamente, são todos guerreiros ninjas(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC1 HD_21273091/16_9/325/244" />
   </programme>
-  <programme start="20181006053500 +0100" stop="20181006073000 +0100" channel="TV Cine 1 HD">
+  <programme start="20181006053500 +0100" stop="20181006073000 +0100" channel="TV Cine 1FHD">
     <title lang="pt">A Múmia</title>
     <desc lang="pt">Sepultada num túmulo nas profundezas do deserto, uma ancestral princesa, cujo destino lhe foi injustamente roubado, é despertada no presente, trazendo com ela toda a malevolência acumulada ao longo dos milénios(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC1 HD_21253236/16_9/325/244" />
   </programme>
-  <programme start="20181006073000 +0100" stop="20181006100500 +0100" channel="TV Cine 1 HD">
+  <programme start="20181006073000 +0100" stop="20181006100500 +0100" channel="TV Cine 1FHD">
     <title lang="pt">Transformers: O Último Cavaleiro</title>
     <desc lang="pt">Humanos e Transformers estão em guerra. A chave para salvar o nosso futuro está enterrada nos segredos do passado e a missão recai sobre os ombros de uma aliança improvável: Cade Yeager, Bumblebee, um lorde inglês e uma professora de Oxford(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC1 HD_21253242/16_9/325/244" />
   </programme>
-  <programme start="20181006100500 +0100" stop="20181006122000 +0100" channel="TV Cine 1 HD">
+  <programme start="20181006100500 +0100" stop="20181006122000 +0100" channel="TV Cine 1FHD">
     <title lang="pt">Black Panther</title>
     <desc lang="pt">T'Challa regressa a casa, uma nação africana isolada e tecnologicamente avançada, para assumir o trono de Wakanda. Mas quando um poderoso inimigo reaparece, a força de T'Challa é testada, ao ser atraído para um conflito que coloca o mundo em risco(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC1 HD_21278370/16_9/325/244" />
   </programme>
-  <programme start="20181006122000 +0100" stop="20181006140000 +0100" channel="TV Cine 1 HD">
+  <programme start="20181006122000 +0100" stop="20181006140000 +0100" channel="TV Cine 1FHD">
     <title lang="pt">The Boss Baby (V.P.)</title>
     <desc lang="pt">A chegada de um bebé afeta toda a família, especialmente na perspetiva de Tim, de sete anos, o seu irmão mais velho. Além disso, o bebé vem já preparado com uma boa dose de sabedoria e ironia, veste fato e gravata e usa uma malinha como os crescidos(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC1 HD_21260047/16_9/325/244" />
   </programme>
-  <programme start="20181006140000 +0100" stop="20181006161500 +0100" channel="TV Cine 1 HD">
+  <programme start="20181006140000 +0100" stop="20181006161500 +0100" channel="TV Cine 1FHD">
     <title lang="pt">A Cidade Perdida de Z</title>
     <desc lang="pt">A história do explorador inglês Percy Fawcett que, no início do século XX, descobre na Amazónia provas de uma civilização desconhecida. Ridicularizado pela comunidade científica, Fawcett regressa para provar a teoria, mas desaparece misteriosamente(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC1 HD_21260052/16_9/325/244" />
   </programme>
-  <programme start="20181006161500 +0100" stop="20181006175500 +0100" channel="TV Cine 1 HD">
+  <programme start="20181006161500 +0100" stop="20181006175500 +0100" channel="TV Cine 1FHD">
     <title lang="pt">2:22</title>
     <desc lang="pt">A vida de um homem fica completamente descarrilada quando um padrão sinistro de eventos se repete exatamente da mesma maneira todos os dias, terminando, precisamente, às 2:22 da tarde(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC1 HD_21265518/16_9/325/244" />
   </programme>
-  <programme start="20181006175500 +0100" stop="20181006194500 +0100" channel="TV Cine 1 HD">
+  <programme start="20181006175500 +0100" stop="20181006194500 +0100" channel="TV Cine 1FHD">
     <title lang="pt">Geostorm</title>
     <desc lang="pt">O sistema construído para proteger a Terra das alterações climáticas está agora a atacá-la. Como resultado, é uma corrida contra o relógio para descobrir a verdadeira ameaça, antes que uma tempestade mundial destrua tudo e todos(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC1 HD_21273096/16_9/325/244" />
   </programme>
-  <programme start="20181006194500 +0100" stop="20181006213000 +0100" channel="TV Cine 1 HD">
+  <programme start="20181006194500 +0100" stop="20181006213000 +0100" channel="TV Cine 1FHD">
     <title lang="pt">Fahrenheit 451</title>
     <desc lang="pt">Num futuro distópico, todos os livros e material de leitura são banidos e queimados a 451 graus.No entanto, um dos bombeiros responsáveis pela queima começa a questionar a sua função depois de conhecer uma jovem rapariga, apaixonada pela leitura(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC1 HD_21265525/16_9/325/244" />
   </programme>
-  <programme start="20181006213000 +0100" stop="20181006234500 +0100" channel="TV Cine 1 HD">
+  <programme start="20181006213000 +0100" stop="20181006234500 +0100" channel="TV Cine 1FHD">
     <title lang="pt">Pequena Grande Vida</title>
     <desc lang="pt">Paul Safranek e a mulher decidem abandonar as suas vidas stressantes, e decidem mudar completamente de vida ao tornarem-se minúsculos. Depois de encolhidos, a expetativa é reduzirem o custo de vida significativamente e viverem em grande estilo(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC1 HD_21278371/16_9/325/244" />
   </programme>
-  <programme start="20181006234500 +0100" stop="20181007012500 +0100" channel="TV Cine 1 HD">
+  <programme start="20181006234500 +0100" stop="20181007012500 +0100" channel="TV Cine 1FHD">
     <title lang="pt">Perdidos</title>
     <desc lang="pt">A bordo de um veleiro, um grupo de amigos decide nadar em alto-mar, mas não baixa as escadas. O barco revela-se impossível de escalar, deixando-os à deriva, longe da costa. O que começou por ser uma alegre reunião torna-se, então, numa luta pela sobrevivência(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC1 HD_21265534/16_9/325/244" />
@@ -19478,92 +19478,92 @@
     <desc lang="pt">Jeff Chang sempre fez aquilo que se esperava dele e prepara-se para seguir as pisadas do pai, um conceituado médico. Mas quando os seus dois melhores amigos o surpreendem com uma visita no seu 21º aniversário, Jeff decide fazer o inesperado: uma noite de loucura, excessos e caos(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/HOLLYW_11380/16_9/325/244" />
   </programme>
-  <programme start="20181006000000 +0100" stop="20181006014000 +0100" channel="SPORT TV3">
+  <programme start="20181006000000 +0100" stop="20181006014000 +0100" channel="SPTV3">
     <title lang="pt">Columbus x Carolina (Direto): Hóquei no Gelo</title>
     <desc lang="pt">Transmissão do confronto entre Columbus x Carolina(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_12954634/16_9/325/244" />
   </programme>
-  <programme start="20181006014000 +0100" stop="20181006025000 +0100" channel="SPORT TV3">
+  <programme start="20181006014000 +0100" stop="20181006025000 +0100" channel="SPTV3">
     <title lang="pt">Columbus x Carolina (3ª Parte) (Direto): Hóquei no Gelo</title>
     <desc lang="pt">Transmissão do confronto entre Columbus x Carolina(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_12954635/16_9/325/244" />
   </programme>
-  <programme start="20181006025000 +0100" stop="20181006032000 +0100" channel="SPORT TV3">
+  <programme start="20181006025000 +0100" stop="20181006032000 +0100" channel="SPTV3">
     <title lang="pt">Boxe</title>
     <desc lang="pt">Magazine dedicado ao Boxe(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_13165387/16_9/325/244" />
   </programme>
-  <programme start="20181006032000 +0100" stop="20181006052000 +0100" channel="SPORT TV3">
+  <programme start="20181006032000 +0100" stop="20181006052000 +0100" channel="SPTV3">
     <title lang="pt">Sem Emissão</title>
     <desc lang="pt">Sem Emissão(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_1315924/16_9/325/244" />
   </programme>
-  <programme start="20181006052000 +0100" stop="20181006072000 +0100" channel="SPORT TV3">
+  <programme start="20181006052000 +0100" stop="20181006072000 +0100" channel="SPTV3">
     <title lang="pt">Sem Emissão</title>
     <desc lang="pt">Sem Emissão(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_1315924/16_9/325/244" />
   </programme>
-  <programme start="20181006072000 +0100" stop="20181006080000 +0100" channel="SPORT TV3">
+  <programme start="20181006072000 +0100" stop="20181006080000 +0100" channel="SPTV3">
     <title lang="pt">Sem Emissão</title>
     <desc lang="pt">Sem Emissão(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_1315924/16_9/325/244" />
   </programme>
-  <programme start="20181006080000 +0100" stop="20181006083000 +0100" channel="SPORT TV3">
+  <programme start="20181006080000 +0100" stop="20181006083000 +0100" channel="SPTV3">
     <title lang="pt">Rugby</title>
     <desc lang="pt">Magazine dedicado ao mundo do rugby(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_13165335/16_9/325/244" />
   </programme>
-  <programme start="20181006083000 +0100" stop="20181006103000 +0100" channel="SPORT TV3">
+  <programme start="20181006083000 +0100" stop="20181006103000 +0100" channel="SPTV3">
     <title lang="pt">Belenenses x AA Coimbra: Rugby</title>
     <desc lang="pt">Transmissão do confronto entre Belenenses x AA Coimbra(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_12951985/16_9/325/244" />
   </programme>
-  <programme start="20181006103000 +0100" stop="20181006122000 +0100" channel="SPORT TV3">
+  <programme start="20181006103000 +0100" stop="20181006122000 +0100" channel="SPTV3">
     <title lang="pt">Sporting x Benfica: Voleibol</title>
     <desc lang="pt">Transmissão do confronto entre Sporting x Benfica(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_12951506/16_9/325/244" />
   </programme>
-  <programme start="20181006122000 +0100" stop="20181006125000 +0100" channel="SPORT TV3">
+  <programme start="20181006122000 +0100" stop="20181006125000 +0100" channel="SPTV3">
     <title lang="pt">Resumo da Jornada: Andebol</title>
     <desc lang="pt">A Liga dos campeões de andebol, aqui na sua SportTV(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_12947581/16_9/325/244" />
   </programme>
-  <programme start="20181006125000 +0100" stop="20181006140000 +0100" channel="SPORT TV3">
+  <programme start="20181006125000 +0100" stop="20181006140000 +0100" channel="SPTV3">
     <title lang="pt">GP Japão</title>
     <desc lang="pt">Destaque para o Grande Prémio do Japão, a partir do circuito de Suzuka. que recebeu o primeiro Grande Prémio pela primeira vez em 1987. Este circuito de alta velocidade continua a ser um dos maiores desafios de condução para os pilotos, com as famosas curvas sinuosas em "S"(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_12951977/16_9/325/244" />
   </programme>
-  <programme start="20181006140000 +0100" stop="20181006161000 +0100" channel="SPORT TV3">
+  <programme start="20181006140000 +0100" stop="20181006161000 +0100" channel="SPTV3">
     <title lang="pt">Pequim</title>
     <desc lang="pt">Acompanhamento dos Torneios ATP World Tour 500(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_12390857/16_9/325/244" />
   </programme>
-  <programme start="20181006161000 +0100" stop="20181006170000 +0100" channel="SPORT TV3">
+  <programme start="20181006161000 +0100" stop="20181006170000 +0100" channel="SPTV3">
     <title lang="pt">Futebol</title>
     <desc lang="pt">Magazine dos melhores momentos da Taça Libertadores da América(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_13214070/16_9/325/244" />
   </programme>
-  <programme start="20181006170000 +0100" stop="20181006190000 +0100" channel="SPORT TV3">
+  <programme start="20181006170000 +0100" stop="20181006190000 +0100" channel="SPTV3">
     <title lang="pt">Udinese x Juventus (Direto): Liga Italiana</title>
     <desc lang="pt">Transmissão do confronto entre Udinese x Juventus(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_12246829/16_9/325/244" />
   </programme>
-  <programme start="20181006190000 +0100" stop="20181006193000 +0100" channel="SPORT TV3">
+  <programme start="20181006190000 +0100" stop="20181006193000 +0100" channel="SPTV3">
     <title lang="pt">Basquetebol</title>
     <desc lang="pt">Acompanhe o NBA Action, o magazine que destaca todos os principais momentos do NBA(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_13196704/16_9/325/244" />
   </programme>
-  <programme start="20181006193000 +0100" stop="20181006213000 +0100" channel="SPORT TV3">
+  <programme start="20181006193000 +0100" stop="20181006213000 +0100" channel="SPTV3">
     <title lang="pt">Empoli x AS Roma (Direto): Liga Italiana</title>
     <desc lang="pt">Transmissão do confronto entre Empoli x AS Roma(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_12952002/16_9/325/244" />
   </programme>
-  <programme start="20181006213000 +0100" stop="20181006220000 +0100" channel="SPORT TV3">
+  <programme start="20181006213000 +0100" stop="20181006220000 +0100" channel="SPTV3">
     <title lang="pt">Manchester United x Newcastle: Premier League</title>
     <desc lang="pt">Transmissão do confronto entre Manchester United x Newcastle(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_12951975/16_9/325/244" />
   </programme>
-  <programme start="20181006220000 +0100" stop="20181007000000 +0100" channel="SPORT TV3">
+  <programme start="20181006220000 +0100" stop="20181007000000 +0100" channel="SPTV3">
     <title lang="pt">Enfusion 72</title>
     <desc lang="pt">Acompanhe um dos mais entusiasmantes desportos de combate, o Kickboxing(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_12952003/16_9/325/244" />
@@ -19757,57 +19757,57 @@
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/KBS WORLD_12309287/16_9/325/244" />
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20181006013000 +0100" stop="20181006022000 +0100" channel="SPORT TV4">
+  <programme start="20181006013000 +0100" stop="20181006022000 +0100" channel="SPTV4">
     <title lang="pt">Golfe</title>
     <desc lang="pt">Magazine dedicado ao mundo do golfe(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 4_13165370/16_9/325/244" />
   </programme>
-  <programme start="20181006022000 +0100" stop="20181006042000 +0100" channel="SPORT TV4">
+  <programme start="20181006022000 +0100" stop="20181006042000 +0100" channel="SPTV4">
     <title lang="pt">Sem Emissão</title>
     <desc lang="pt">Sem Emissão(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 4_1330494/16_9/325/244" />
   </programme>
-  <programme start="20181006042000 +0100" stop="20181006060000 +0100" channel="SPORT TV4">
+  <programme start="20181006042000 +0100" stop="20181006060000 +0100" channel="SPTV4">
     <title lang="pt">Sem Emissão</title>
     <desc lang="pt">Sem Emissão(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 4_1330494/16_9/325/244" />
   </programme>
-  <programme start="20181006060000 +0100" stop="20181006080000 +0100" channel="SPORT TV4">
+  <programme start="20181006060000 +0100" stop="20181006080000 +0100" channel="SPTV4">
     <title lang="pt">Tóquio</title>
     <desc lang="pt">Acompanhamento dos Torneios ATP World Tour 500(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 4_12803065/16_9/325/244" />
   </programme>
-  <programme start="20181006080000 +0100" stop="20181006100000 +0100" channel="SPORT TV4">
+  <programme start="20181006080000 +0100" stop="20181006100000 +0100" channel="SPTV4">
     <title lang="pt">Tóquio</title>
     <desc lang="pt">Acompanhamento dos Torneios ATP World Tour 500(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 4_12803065/16_9/325/244" />
   </programme>
-  <programme start="20181006100000 +0100" stop="20181006130000 +0100" channel="SPORT TV4">
+  <programme start="20181006100000 +0100" stop="20181006130000 +0100" channel="SPTV4">
     <title lang="pt">Safeway Open</title>
     <desc lang="pt">Acompanhe todas as provas do PGA Tour(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 4_12803567/16_9/325/244" />
   </programme>
-  <programme start="20181006130000 +0100" stop="20181006170000 +0100" channel="SPORT TV4">
+  <programme start="20181006130000 +0100" stop="20181006170000 +0100" channel="SPTV4">
     <title lang="pt">Alfred Dunhill Links Championship</title>
     <desc lang="pt">Destaque para o European Tour(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 4_12388157/16_9/325/244" />
   </programme>
-  <programme start="20181006170000 +0100" stop="20181006190000 +0100" channel="SPORT TV4">
+  <programme start="20181006170000 +0100" stop="20181006190000 +0100" channel="SPTV4">
     <title lang="pt">Antalyaspor x Galatasaray (Direto): Superliga Turca</title>
     <desc lang="pt">Transmissão do confronto entre Antalyaspor x Galatasaray(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 4_12954550/16_9/325/244" />
   </programme>
-  <programme start="20181006190000 +0100" stop="20181006204000 +0100" channel="SPORT TV4">
+  <programme start="20181006190000 +0100" stop="20181006204000 +0100" channel="SPTV4">
     <title lang="pt">Paris St Germain x Nantes: Andebol</title>
     <desc lang="pt">Transmissão do confronto entre Paris St Germain x Nantes(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 4_12953140/16_9/325/244" />
   </programme>
-  <programme start="20181006204000 +0100" stop="20181006223000 +0100" channel="SPORT TV4">
+  <programme start="20181006204000 +0100" stop="20181006223000 +0100" channel="SPTV4">
     <title lang="pt">Alfred Dunhill Links Championship</title>
     <desc lang="pt">Destaque para o European Tour(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 4_12388160/16_9/325/244" />
   </programme>
-  <programme start="20181006223000 +0100" stop="20181007013000 +0100" channel="SPORT TV4">
+  <programme start="20181006223000 +0100" stop="20181007013000 +0100" channel="SPTV4">
     <title lang="pt">Safeway Open</title>
     <desc lang="pt">Acompanhe todas as provas do PGA Tour(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 4_12622045/16_9/325/244" />
@@ -20214,82 +20214,82 @@
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/FOX Comedy HD_22235769/16_9/325/244" />
     <episode-num system="onscreen">S6 E7</episode-num>
   </programme>
-  <programme start="20181006004000 +0100" stop="20181006030000 +0100" channel="SPORT TV1">
+  <programme start="20181006004000 +0100" stop="20181006030000 +0100" channel="SPTV1">
     <title lang="pt">Philadelphia x Dallas</title>
     <desc lang="pt">Transmissão do confronto entre Philadelphia x Dallas(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12951507/16_9/325/244" />
   </programme>
-  <programme start="20181006030000 +0100" stop="20181006032500 +0100" channel="SPORT TV1">
+  <programme start="20181006030000 +0100" stop="20181006032500 +0100" channel="SPTV1">
     <title lang="pt">Basquetebol</title>
     <desc lang="pt">Acompanhe o NBA Action, o magazine que destaca todos os principais momentos do NBA(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_13196704/16_9/325/244" />
   </programme>
-  <programme start="20181006032500 +0100" stop="20181006040000 +0100" channel="SPORT TV1">
+  <programme start="20181006032500 +0100" stop="20181006040000 +0100" channel="SPTV1">
     <title lang="pt">Rugby</title>
     <desc lang="pt">Magazine dedicado ao mundo do rugby(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_13165335/16_9/325/244" />
   </programme>
-  <programme start="20181006040000 +0100" stop="20181006050000 +0100" channel="SPORT TV1">
+  <programme start="20181006040000 +0100" stop="20181006050000 +0100" channel="SPTV1">
     <title lang="pt">GP Japão</title>
     <desc lang="pt">Destaque para o Grande Prémio do Japão, a partir do circuito de Suzuka. que recebeu o primeiro Grande Prémio pela primeira vez em 1987. Este circuito de alta velocidade continua a ser um dos maiores desafios de condução para os pilotos, com as famosas curvas sinuosas em "S"(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12951508/16_9/325/244" />
   </programme>
-  <programme start="20181006050000 +0100" stop="20181006053000 +0100" channel="SPORT TV1">
+  <programme start="20181006050000 +0100" stop="20181006053000 +0100" channel="SPTV1">
     <title lang="pt">Palmela</title>
     <desc lang="pt">A disputa nacional de quem será o mais rápido a cortar a meta(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12950869/16_9/325/244" />
   </programme>
-  <programme start="20181006053000 +0100" stop="20181006060000 +0100" channel="SPORT TV1">
+  <programme start="20181006053000 +0100" stop="20181006060000 +0100" channel="SPTV1">
     <title lang="pt">Rampa de Boticas</title>
     <desc lang="pt">A disputa nacional de quem será o mais rápido a cortar a meta(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12950867/16_9/325/244" />
   </programme>
-  <programme start="20181006060000 +0100" stop="20181006070000 +0100" channel="SPORT TV1">
+  <programme start="20181006060000 +0100" stop="20181006070000 +0100" channel="SPTV1">
     <title lang="pt">Usa</title>
     <desc lang="pt">FIA World Rallycross Championship(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12950870/16_9/325/244" />
   </programme>
-  <programme start="20181006070000 +0100" stop="20181006081000 +0100" channel="SPORT TV1">
+  <programme start="20181006070000 +0100" stop="20181006081000 +0100" channel="SPTV1">
     <title lang="pt">GP Japão</title>
     <desc lang="pt">Destaque para o Grande Prémio do Japão, a partir do circuito de Suzuka. que recebeu o primeiro Grande Prémio pela primeira vez em 1987. Este circuito de alta velocidade continua a ser um dos maiores desafios de condução para os pilotos, com as famosas curvas sinuosas em "S"(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12951973/16_9/325/244" />
   </programme>
-  <programme start="20181006081000 +0100" stop="20181006084000 +0100" channel="SPORT TV1">
+  <programme start="20181006081000 +0100" stop="20181006084000 +0100" channel="SPTV1">
     <title lang="pt">Basquetebol</title>
     <desc lang="pt">O Basquetebol é um desporto genuinamente internacional. Este ano a FIBA concentra-se nas competições continentais, à medida que o mundo se prepara para os Campeonatos. Competições regionais terão lugar na Europa, Ásia, Américas, África e Oceânia(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_13165346/16_9/325/244" />
   </programme>
-  <programme start="20181006084000 +0100" stop="20181006110000 +0100" channel="SPORT TV1">
+  <programme start="20181006084000 +0100" stop="20181006110000 +0100" channel="SPTV1">
     <title lang="pt">Philadelphia x Dallas</title>
     <desc lang="pt">Transmissão do confronto entre Philadelphia x Dallas(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12951507/16_9/325/244" />
   </programme>
-  <programme start="20181006110000 +0100" stop="20181006131000 +0100" channel="SPORT TV1">
+  <programme start="20181006110000 +0100" stop="20181006131000 +0100" channel="SPTV1">
     <title lang="pt">Cova Piedade x Benfica B (Direto): Segunda Liga</title>
     <desc lang="pt">Transmissão do confronto entre Cova Piedade x Benfica B(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12951974/16_9/325/244" />
   </programme>
-  <programme start="20181006131000 +0100" stop="20181006153000 +0100" channel="SPORT TV1">
+  <programme start="20181006131000 +0100" stop="20181006153000 +0100" channel="SPTV1">
     <title lang="pt">Feirense x Belenenses: Primeira Liga</title>
     <desc lang="pt">Transmissão do confronto entre Feirense x Belenenses(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12635227/16_9/325/244" />
   </programme>
-  <programme start="20181006153000 +0100" stop="20181006180000 +0100" channel="SPORT TV1">
+  <programme start="20181006153000 +0100" stop="20181006180000 +0100" channel="SPTV1">
     <title lang="pt">V. Setúbal x Moreirense (Direto): Primeira Liga</title>
     <desc lang="pt">Transmissão do confronto entre V. Setúbal x Moreirense(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12712927/16_9/325/244" />
   </programme>
-  <programme start="20181006180000 +0100" stop="20181006203000 +0100" channel="SPORT TV1">
+  <programme start="20181006180000 +0100" stop="20181006203000 +0100" channel="SPTV1">
     <title lang="pt">Marítimo x V. Guimarães (Direto): Primeira Liga</title>
     <desc lang="pt">Transmissão do confronto entre Marítimo x V. Guimarães(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12859565/16_9/325/244" />
   </programme>
-  <programme start="20181006203000 +0100" stop="20181006224500 +0100" channel="SPORT TV1">
+  <programme start="20181006203000 +0100" stop="20181006224500 +0100" channel="SPTV1">
     <title lang="pt">Sc Braga x Rio Ave (Direto): Primeira Liga</title>
     <desc lang="pt">Transmissão do confronto entre Sc Braga x Rio Ave(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12589061/16_9/325/244" />
   </programme>
-  <programme start="20181006224500 +0100" stop="20181007003500 +0100" channel="SPORT TV1">
+  <programme start="20181006224500 +0100" stop="20181007003500 +0100" channel="SPTV1">
     <title lang="pt">Udinese x Juventus: Liga Italiana</title>
     <desc lang="pt">Transmissão do confronto entre Udinese x Juventus(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12701321/16_9/325/244" />
@@ -20824,77 +20824,77 @@
     <desc lang="pt">The leading news stories of the moment(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/EURONW_13164071/16_9/325/244" />
   </programme>
-  <programme start="20181006011000 +0100" stop="20181006032000 +0100" channel="SPORT TV2">
+  <programme start="20181006011000 +0100" stop="20181006032000 +0100" channel="SPTV2">
     <title lang="pt">Santa Clara x Desp. Chaves: Primeira Liga</title>
     <desc lang="pt">Transmissão do confronto entre Santa Clara x Desp. Chaves(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12951513/16_9/325/244" />
   </programme>
-  <programme start="20181006032000 +0100" stop="20181006053000 +0100" channel="SPORT TV2">
+  <programme start="20181006032000 +0100" stop="20181006053000 +0100" channel="SPTV2">
     <title lang="pt">Feirense x Belenenses: Primeira Liga</title>
     <desc lang="pt">Transmissão do confronto entre Feirense x Belenenses(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12635227/16_9/325/244" />
   </programme>
-  <programme start="20181006053000 +0100" stop="20181006073000 +0100" channel="SPORT TV2">
+  <programme start="20181006053000 +0100" stop="20181006073000 +0100" channel="SPTV2">
     <title lang="pt">Torino x Frosinone: Liga Italiana</title>
     <desc lang="pt">Transmissão do confronto entre Torino x Frosinone(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12952001/16_9/325/244" />
   </programme>
-  <programme start="20181006073000 +0100" stop="20181006093000 +0100" channel="SPORT TV2">
+  <programme start="20181006073000 +0100" stop="20181006093000 +0100" channel="SPTV2">
     <title lang="pt">Brighton &amp; Hove Albion x West Ham: Premier League</title>
     <desc lang="pt">Transmissão do confronto entre Brighton &amp; Hove Albion x West Ham(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12951991/16_9/325/244" />
   </programme>
-  <programme start="20181006093000 +0100" stop="20181006113500 +0100" channel="SPORT TV2">
+  <programme start="20181006093000 +0100" stop="20181006113500 +0100" channel="SPTV2">
     <title lang="pt">Pequim</title>
     <desc lang="pt">Acompanhamento dos Torneios ATP World Tour 500(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12390857/16_9/325/244" />
   </programme>
-  <programme start="20181006113500 +0100" stop="20181006120000 +0100" channel="SPORT TV2">
+  <programme start="20181006113500 +0100" stop="20181006120000 +0100" channel="SPTV2">
     <title lang="pt">Basquetebol</title>
     <desc lang="pt">O Basquetebol é um desporto genuinamente internacional. Este ano a FIBA concentra-se nas competições continentais, à medida que o mundo se prepara para os Campeonatos. Competições regionais terão lugar na Europa, Ásia, Américas, África e Oceânia(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_13165346/16_9/325/244" />
   </programme>
-  <programme start="20181006120000 +0100" stop="20181006123500 +0100" channel="SPORT TV2">
+  <programme start="20181006120000 +0100" stop="20181006123500 +0100" channel="SPTV2">
     <title lang="pt">Basquetebol</title>
     <desc lang="pt">Acompanhe o NBA Action, o magazine que destaca todos os principais momentos do NBA(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_13196704/16_9/325/244" />
   </programme>
-  <programme start="20181006123500 +0100" stop="20181006144000 +0100" channel="SPORT TV2">
+  <programme start="20181006123500 +0100" stop="20181006144000 +0100" channel="SPTV2">
     <title lang="pt">Hebei China Fortune x Guangzhou Evergrande (Direto): Superliga Chinesa</title>
     <desc lang="pt">Transmissão do confronto entre Hebei China Fortune x Guangzhou Evergrande(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12954464/16_9/325/244" />
   </programme>
-  <programme start="20181006144000 +0100" stop="20181006150000 +0100" channel="SPORT TV2">
+  <programme start="20181006144000 +0100" stop="20181006150000 +0100" channel="SPTV2">
     <title lang="pt">Golos da 2ª Jornada da Fase de Grupos: Liga Europa</title>
     <desc lang="pt">A Liga Europa da UEFA, prova que substituiu a Taça UEFA, nasceu de uma ideia concebida pelo suíço Ernst Thommen, juntamente com o italiano Ottorino Barrasi e o inglês Stanley Rous. Acompanhe jogos, resumos e toda a informação sobre esta competição(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12954631/16_9/325/244" />
   </programme>
-  <programme start="20181006150000 +0100" stop="20181006165500 +0100" channel="SPORT TV2">
+  <programme start="20181006150000 +0100" stop="20181006165500 +0100" channel="SPTV2">
     <title lang="pt">Crystal Palace x Wolverhampton (Direto): Premier League</title>
     <desc lang="pt">Transmissão do confronto entre Crystal Palace x Wolverhampton(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12951993/16_9/325/244" />
   </programme>
-  <programme start="20181006165500 +0100" stop="20181006173000 +0100" channel="SPORT TV2">
+  <programme start="20181006165500 +0100" stop="20181006173000 +0100" channel="SPTV2">
     <title lang="pt">Premier League</title>
     <desc lang="pt">Magazine de informação futebolística(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12585477/16_9/325/244" />
   </programme>
-  <programme start="20181006173000 +0100" stop="20181006193000 +0100" channel="SPORT TV2">
+  <programme start="20181006173000 +0100" stop="20181006193000 +0100" channel="SPTV2">
     <title lang="pt">Manchester United x Newcastle (Direto): Premier League</title>
     <desc lang="pt">Transmissão do confronto entre Manchester United x Newcastle(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12951994/16_9/325/244" />
   </programme>
-  <programme start="20181006193000 +0100" stop="20181006212000 +0100" channel="SPORT TV2">
+  <programme start="20181006193000 +0100" stop="20181006212000 +0100" channel="SPTV2">
     <title lang="pt">Leicester x Everton: Premier League</title>
     <desc lang="pt">Transmissão do confronto entre Leicester x Everton(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12814538/16_9/325/244" />
   </programme>
-  <programme start="20181006212000 +0100" stop="20181006231000 +0100" channel="SPORT TV2">
+  <programme start="20181006212000 +0100" stop="20181006231000 +0100" channel="SPTV2">
     <title lang="pt">Tottenham x Cardiff: Premier League</title>
     <desc lang="pt">Transmissão do confronto entre Tottenham x Cardiff(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12951995/16_9/325/244" />
   </programme>
-  <programme start="20181006231000 +0100" stop="20181007010000 +0100" channel="SPORT TV2">
+  <programme start="20181006231000 +0100" stop="20181007010000 +0100" channel="SPTV2">
     <title lang="pt">Watford x Bournemouth: Premier League</title>
     <desc lang="pt">Transmissão do confronto entre Watford x Bournemouth(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12951996/16_9/325/244" />
@@ -21526,122 +21526,122 @@
     <desc lang="pt">Cette émission consacrée à l'actualité économique de la semaine propose, après un résumé tout enimages, le décryptage de trois grands thèmes d'actualité analysés par des spécialistes en plateau(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/FRA24F_1313040/16_9/325/244" />
   </programme>
-  <programme start="20181006001000 +0100" stop="20181006004000 +0100" channel="SPORT TV5">
+  <programme start="20181006001000 +0100" stop="20181006004000 +0100" channel="SPTV5">
     <title lang="pt">Rali Grã Bretanha</title>
     <desc lang="pt">Não perca os melhores momentos da mais emocionante prova de automobilismo do mundo, o WRC(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12951537/16_9/325/244" />
   </programme>
-  <programme start="20181006004000 +0100" stop="20181006021000 +0100" channel="SPORT TV5">
+  <programme start="20181006004000 +0100" stop="20181006021000 +0100" channel="SPTV5">
     <title lang="pt">GP Japão</title>
     <desc lang="pt">Destaque para o Grande Prémio do Japão, a partir do circuito de Suzuka. que recebeu o primeiro Grande Prémio pela primeira vez em 1987. Este circuito de alta velocidade continua a ser um dos maiores desafios de condução para os pilotos, com as famosas curvas sinuosas em "S"(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12951534/16_9/325/244" />
   </programme>
-  <programme start="20181006021000 +0100" stop="20181006030000 +0100" channel="SPORT TV5">
+  <programme start="20181006021000 +0100" stop="20181006030000 +0100" channel="SPTV5">
     <title lang="pt">GP Tailândia</title>
     <desc lang="pt">Em março de 2015, a Tailândia tornou-se o mais recente país asiático a sediar um evento de motociclismo de classe mundial, com o Campeonato Mundial de Superbike realizado no circuito internacional de Chang. 2018 marca a estreia do MotoGP na "cidade da felicidade", Buriram, Tailândia(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12951522/16_9/325/244" />
   </programme>
-  <programme start="20181006030000 +0100" stop="20181006035500 +0100" channel="SPORT TV5">
+  <programme start="20181006030000 +0100" stop="20181006035500 +0100" channel="SPTV5">
     <title lang="pt">GP Tailândia</title>
     <desc lang="pt">Moto3 é restrita a motores monocilíndricos de 250cc. O peso mínimo para todas as motos e pilotos é de 148 kg. Acompanhe o GP da Tailândia em Moto3(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12951538/16_9/325/244" />
   </programme>
-  <programme start="20181006035500 +0100" stop="20181006045500 +0100" channel="SPORT TV5">
+  <programme start="20181006035500 +0100" stop="20181006045500 +0100" channel="SPTV5">
     <title lang="pt">GP Tailândia</title>
     <desc lang="pt">Em março de 2015, a Tailândia tornou-se o mais recente país asiático a sediar um evento de motociclismo de classe mundial, com o Campeonato Mundial de Superbike realizado no circuito internacional de Chang. 2018 marca a estreia do MotoGP na "cidade da felicidade", Buriram, Tailândia(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12951539/16_9/325/244" />
   </programme>
-  <programme start="20181006045500 +0100" stop="20181006055000 +0100" channel="SPORT TV5">
+  <programme start="20181006045500 +0100" stop="20181006055000 +0100" channel="SPTV5">
     <title lang="pt">GP Tailândia</title>
     <desc lang="pt">A Moto2 é a classe de quatro tempos de 600cc. Acompanhe o Grande Prémio da Tailândia em Moto2(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12951540/16_9/325/244" />
   </programme>
-  <programme start="20181006055000 +0100" stop="20181006063500 +0100" channel="SPORT TV5">
+  <programme start="20181006055000 +0100" stop="20181006063500 +0100" channel="SPTV5">
     <title lang="pt">Sem Emissão</title>
     <desc lang="pt">Sem Emissão(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_1315946/16_9/325/244" />
   </programme>
-  <programme start="20181006063500 +0100" stop="20181006073000 +0100" channel="SPORT TV5">
+  <programme start="20181006063500 +0100" stop="20181006073000 +0100" channel="SPTV5">
     <title lang="pt">GP Tailândia</title>
     <desc lang="pt">Moto3 é restrita a motores monocilíndricos de 250cc. O peso mínimo para todas as motos e pilotos é de 148 kg. Acompanhe o GP da Tailândia em Moto3(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12952007/16_9/325/244" />
   </programme>
-  <programme start="20181006073000 +0100" stop="20181006081000 +0100" channel="SPORT TV5">
+  <programme start="20181006073000 +0100" stop="20181006081000 +0100" channel="SPTV5">
     <title lang="pt">GP Tailândia</title>
     <desc lang="pt">Em março de 2015, a Tailândia tornou-se o mais recente país asiático a sediar um evento de motociclismo de classe mundial, com o Campeonato Mundial de Superbike realizado no circuito internacional de Chang. 2018 marca a estreia do MotoGP na "cidade da felicidade", Buriram, Tailândia(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12952008/16_9/325/244" />
   </programme>
-  <programme start="20181006081000 +0100" stop="20181006083500 +0100" channel="SPORT TV5">
+  <programme start="20181006081000 +0100" stop="20181006083500 +0100" channel="SPTV5">
     <title lang="pt">GP Tailândia</title>
     <desc lang="pt">Em março de 2015, a Tailândia tornou-se o mais recente país asiático a sediar um evento de motociclismo de classe mundial, com o Campeonato Mundial de Superbike realizado no circuito internacional de Chang. 2018 marca a estreia do MotoGP na "cidade da felicidade", Buriram, Tailândia(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12952009/16_9/325/244" />
   </programme>
-  <programme start="20181006083500 +0100" stop="20181006090500 +0100" channel="SPORT TV5">
+  <programme start="20181006083500 +0100" stop="20181006090500 +0100" channel="SPTV5">
     <title lang="pt">GP Tailândia</title>
     <desc lang="pt">Em março de 2015, a Tailândia tornou-se o mais recente país asiático a sediar um evento de motociclismo de classe mundial, com o Campeonato Mundial de Superbike realizado no circuito internacional de Chang. 2018 marca a estreia do MotoGP na "cidade da felicidade", Buriram, Tailândia(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12952010/16_9/325/244" />
   </programme>
-  <programme start="20181006090500 +0100" stop="20181006100000 +0100" channel="SPORT TV5">
+  <programme start="20181006090500 +0100" stop="20181006100000 +0100" channel="SPTV5">
     <title lang="pt">GP Tailândia</title>
     <desc lang="pt">A Moto2 é a classe de quatro tempos de 600cc. Acompanhe o Grande Prémio da Tailândia em Moto2(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12952011/16_9/325/244" />
   </programme>
-  <programme start="20181006100000 +0100" stop="20181006110000 +0100" channel="SPORT TV5">
+  <programme start="20181006100000 +0100" stop="20181006110000 +0100" channel="SPTV5">
     <title lang="pt">GP Japão</title>
     <desc lang="pt">Destaque para o Grande Prémio do Japão, a partir do circuito de Suzuka. que recebeu o primeiro Grande Prémio pela primeira vez em 1987. Este circuito de alta velocidade continua a ser um dos maiores desafios de condução para os pilotos, com as famosas curvas sinuosas em "S"(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12951977/16_9/325/244" />
   </programme>
-  <programme start="20181006110000 +0100" stop="20181006113000 +0100" channel="SPORT TV5">
+  <programme start="20181006110000 +0100" stop="20181006113000 +0100" channel="SPTV5">
     <title lang="pt">Rampa de Boticas</title>
     <desc lang="pt">A disputa nacional de quem será o mais rápido a cortar a meta(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12950867/16_9/325/244" />
   </programme>
-  <programme start="20181006113000 +0100" stop="20181006120000 +0100" channel="SPORT TV5">
+  <programme start="20181006113000 +0100" stop="20181006120000 +0100" channel="SPTV5">
     <title lang="pt">Rali Grã Bretanha</title>
     <desc lang="pt">Não perca os melhores momentos da mais emocionante prova de automobilismo do mundo, o WRC(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12951537/16_9/325/244" />
   </programme>
-  <programme start="20181006120000 +0100" stop="20181006130000 +0100" channel="SPORT TV5">
+  <programme start="20181006120000 +0100" stop="20181006130000 +0100" channel="SPTV5">
     <title lang="pt">Rali Grã Bretanha</title>
     <desc lang="pt">Não perca os melhores momentos da mais emocionante prova de automobilismo do mundo, o WRC(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12952012/16_9/325/244" />
   </programme>
-  <programme start="20181006130000 +0100" stop="20181006140000 +0100" channel="SPORT TV5">
+  <programme start="20181006130000 +0100" stop="20181006140000 +0100" channel="SPTV5">
     <title lang="pt">Wrestling</title>
     <desc lang="pt">Acompanhe o Ring Of Honor de Wresling, aqui na Sport TV(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_13191942/16_9/325/244" />
   </programme>
-  <programme start="20181006140000 +0100" stop="20181006160500 +0100" channel="SPORT TV5">
+  <programme start="20181006140000 +0100" stop="20181006160500 +0100" channel="SPTV5">
     <title lang="pt">Cagliari x Bologna (Direto): Liga Italiana</title>
     <desc lang="pt">Transmissão do confronto entre Cagliari x Bologna(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12883660/16_9/325/244" />
   </programme>
-  <programme start="20181006160500 +0100" stop="20181006180000 +0100" channel="SPORT TV5">
+  <programme start="20181006160500 +0100" stop="20181006180000 +0100" channel="SPTV5">
     <title lang="pt">África Sul x Nova Zelândia (Direto): Rugby</title>
     <desc lang="pt">Transmissão do confronto entre África Sul x Nova Zelândia(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12952013/16_9/325/244" />
   </programme>
-  <programme start="20181006180000 +0100" stop="20181006194000 +0100" channel="SPORT TV5">
+  <programme start="20181006180000 +0100" stop="20181006194000 +0100" channel="SPTV5">
     <title lang="pt">New Jersey x Edmonton (Direto): Hóquei no Gelo</title>
     <desc lang="pt">Transmissão do confronto entre New Jersey x Edmonton(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12954639/16_9/325/244" />
   </programme>
-  <programme start="20181006194000 +0100" stop="20181006205000 +0100" channel="SPORT TV5">
+  <programme start="20181006194000 +0100" stop="20181006205000 +0100" channel="SPTV5">
     <title lang="pt">New Jersey x Edmonton (3ª Parte) (Direto): Hóquei no Gelo</title>
     <desc lang="pt">Transmissão do confronto entre New Jersey x Edmonton(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12954640/16_9/325/244" />
   </programme>
-  <programme start="20181006205000 +0100" stop="20181006230000 +0100" channel="SPORT TV5">
+  <programme start="20181006205000 +0100" stop="20181006230000 +0100" channel="SPTV5">
     <title lang="pt">Pequim \/ Tóquio</title>
     <desc lang="pt">Acompanhamento dos Torneios ATP World Tour 500(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12954637/16_9/325/244" />
   </programme>
-  <programme start="20181006230000 +0100" stop="20181006234000 +0100" channel="SPORT TV5">
+  <programme start="20181006230000 +0100" stop="20181006234000 +0100" channel="SPTV5">
     <title lang="pt">Rali Grã Bretanha</title>
     <desc lang="pt">Não perca os melhores momentos da mais emocionante prova de automobilismo do mundo, o WRC(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12951976/16_9/325/244" />
   </programme>
-  <programme start="20181006234000 +0100" stop="20181007014000 +0100" channel="SPORT TV5">
+  <programme start="20181006234000 +0100" stop="20181007014000 +0100" channel="SPTV5">
     <title lang="pt">Argentina x Austrália (Direto): Rugby</title>
     <desc lang="pt">Transmissão do confronto entre Argentina x Austrália(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12348601/16_9/325/244" />
@@ -22206,72 +22206,72 @@
     <desc lang="pt">The week's top political and social news stories in France(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/FRA24E_1313081/16_9/325/244" />
   </programme>
-  <programme start="20181006001000 +0100" stop="20181006015000 +0100" channel="TVC 3 HD">
+  <programme start="20181006001000 +0100" stop="20181006015000 +0100" channel="TVC 3FHD">
     <title lang="pt">Um Casamento Wilde</title>
     <desc lang="pt">O quarto casamento de uma estrela de cinema, na reforma, transforma-se num autêntico caos, quando as famílias, e o primeiro ex-marido, aparecem para as festividades(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3 HD_21268623/16_9/325/244" />
   </programme>
-  <programme start="20181006015000 +0100" stop="20181006033500 +0100" channel="TVC 3 HD">
+  <programme start="20181006015000 +0100" stop="20181006033500 +0100" channel="TVC 3FHD">
     <title lang="pt">My Little Pony: The Movie</title>
     <desc lang="pt">Quando uma força maldita ameaça Ponyville e os Mane 6, os amigos entram numa aventura até ao fim da Equestria para salvar a casa amada. Pelo caminho, enfrentam uma série de perigos e fazem novas amizades(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3 HD_21275228/16_9/325/244" />
   </programme>
-  <programme start="20181006033500 +0100" stop="20181006050500 +0100" channel="TVC 3 HD">
+  <programme start="20181006033500 +0100" stop="20181006050500 +0100" channel="TVC 3FHD">
     <title lang="pt">Um Voo em Grande (V.P.)</title>
     <desc lang="pt">Richard é um pardal órfão criado por uma família de cegonhas. Quando todos se preparam para a longa viagem rumo ao calor, têm de dizer-lhe que não é uma cegonha de verdade e que terá de ficar... Mas Richard quer provar que é uma cegonha de verdade(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3 HD_21265565/16_9/325/244" />
   </programme>
-  <programme start="20181006050500 +0100" stop="20181006064000 +0100" channel="TVC 3 HD">
+  <programme start="20181006050500 +0100" stop="20181006064000 +0100" channel="TVC 3FHD">
     <title lang="pt">Bailarina (V.O.)</title>
     <desc lang="pt">Felícia, uma jovem órfã da Bretanha, tem um sonho: dançar. Com o seu melhor amigo Victor, que se quer tornar um grande inventor, engendra um plano para fugirem do orfanato para Paris, onde planeia tornar-se bailarina principal da Ópera.(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3 HD_21256669/16_9/325/244" />
   </programme>
-  <programme start="20181006064000 +0100" stop="20181006083000 +0100" channel="TVC 3 HD">
+  <programme start="20181006064000 +0100" stop="20181006083000 +0100" channel="TVC 3FHD">
     <title lang="pt">Hampstead: Nunca é Tarde Para Amar</title>
     <desc lang="pt">Emily é uma viúva que se sente à deriva desde a morte do marido. Mas tudo muda quando conhece Donald, que vive ilegalmente numa cabana agora cobiçada por um grupo imobiliário. A batalha de Donald dá a Emily a motivação que precisava na sua vida(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3 HD_21265506/16_9/325/244" />
   </programme>
-  <programme start="20181006083000 +0100" stop="20181006102000 +0100" channel="TVC 3 HD">
+  <programme start="20181006083000 +0100" stop="20181006102000 +0100" channel="TVC 3FHD">
     <title lang="pt">A Minha Prima Rachel</title>
     <desc lang="pt">Philip procura vingar-se da bela e misteriosa mulher do seu falecido primo, e a única pessoa em quem confiou na vida, acreditando que ela é responsável pela morte dele. No entanto, tudo se complica quando ele dá por si enfeitiçado pelos seus encantos.(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3 HD_21260120/16_9/325/244" />
   </programme>
-  <programme start="20181006102000 +0100" stop="20181006120500 +0100" channel="TVC 3 HD">
+  <programme start="20181006102000 +0100" stop="20181006120500 +0100" channel="TVC 3FHD">
     <title lang="pt">Filomena</title>
     <desc lang="pt">Irlanda, 1952. Numa sociedade conservadora, Filomena engravida. Como tal, é enviada para um convento onde, como forma de remissão, é obrigada a trabalhar e a dar o filho para adoção. Passados 50 anos, um jornalista decide ajudá-la e partem para os EUA, numa emocionante viagem em busca da verdade(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3 HD_2157052/16_9/325/244" />
   </programme>
-  <programme start="20181006120500 +0100" stop="20181006134500 +0100" channel="TVC 3 HD">
+  <programme start="20181006120500 +0100" stop="20181006134500 +0100" channel="TVC 3FHD">
     <title lang="pt">Um Casamento Wilde</title>
     <desc lang="pt">O quarto casamento de uma estrela de cinema, na reforma, transforma-se num autêntico caos, quando as famílias, e o primeiro ex-marido, aparecem para as festividades(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3 HD_21268623/16_9/325/244" />
   </programme>
-  <programme start="20181006134500 +0100" stop="20181006152000 +0100" channel="TVC 3 HD">
+  <programme start="20181006134500 +0100" stop="20181006152000 +0100" channel="TVC 3FHD">
     <title lang="pt">Bailarina (V.P.)</title>
     <desc lang="pt">Felícia, uma jovem órfã da Bretanha, tem um sonho: dançar. Com o seu melhor amigo Victor, que se quer tornar um grande inventor, engendra um plano para fugirem do orfanato para Paris, onde planeia tornar-se bailarina principal da Ópera.(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3 HD_21256668/16_9/325/244" />
   </programme>
-  <programme start="20181006152000 +0100" stop="20181006165000 +0100" channel="TVC 3 HD">
+  <programme start="20181006152000 +0100" stop="20181006165000 +0100" channel="TVC 3FHD">
     <title lang="pt">Marcha Nupcial</title>
     <desc lang="pt">Depois de duas décadas afastados, Olivia e Mick voltam a encontrar-se! Isto porque Mick é contratado para cantar no casamento de Olivia com outro homem(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3 HD_21263242/16_9/325/244" />
   </programme>
-  <programme start="20181006165000 +0100" stop="20181006183000 +0100" channel="TVC 3 HD">
+  <programme start="20181006165000 +0100" stop="20181006183000 +0100" channel="TVC 3FHD">
     <title lang="pt">O Ídolo dos Meus Sonhos</title>
     <desc lang="pt">Rosalee, de uma cidade pequena, ganha um prémio que prevê uma viagem a Los Angeles e uma noite com o maravilhoso Tad Hamilton. Quando o encontro corre melhor do que o esperado, forma-se um triângulo amoroso entre a rapariga, a celebridade e o melhor amigo de Rosalee, Pete(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3 HD_217006/16_9/325/244" />
   </programme>
-  <programme start="20181006183000 +0100" stop="20181006201500 +0100" channel="TVC 3 HD">
+  <programme start="20181006183000 +0100" stop="20181006201500 +0100" channel="TVC 3FHD">
     <title lang="pt">Hampstead: Nunca é Tarde Para Amar</title>
     <desc lang="pt">Emily é uma viúva que se sente à deriva desde a morte do marido. Mas tudo muda quando conhece Donald, que vive ilegalmente numa cabana agora cobiçada por um grupo imobiliário. A batalha de Donald dá a Emily a motivação que precisava na sua vida(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3 HD_21265506/16_9/325/244" />
   </programme>
-  <programme start="20181006201500 +0100" stop="20181006223000 +0100" channel="TVC 3 HD">
+  <programme start="20181006201500 +0100" stop="20181006223000 +0100" channel="TVC 3FHD">
     <title lang="pt">Em Nome do Pai</title>
     <desc lang="pt">Gerry Colon e três outros jovens irlandeses foram falsamente acusados de matar cinco pessoas durante um atentado do IRA a um "pub" inglês, em 1974. Estiveram presos 14 anos, até que a sua inocência foi provada(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3 HD_214979/16_9/325/244" />
   </programme>
-  <programme start="20181006223000 +0100" stop="20181007000500 +0100" channel="TVC 3 HD">
+  <programme start="20181006223000 +0100" stop="20181007000500 +0100" channel="TVC 3FHD">
     <title lang="pt">O Castor</title>
     <desc lang="pt">Walter Black é um homem cuja depressão tomou conta da sua vida. Sem saber mais o que fazer para o ajudar, e temendo que aquela prostração prejudique o crescimento dos filhos de ambos, Meredith, a sua mulher, opta pelo divórcio. É então que Walter encontra um "castor-fantoche"(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3 HD_2178671/16_9/325/244" />
@@ -23186,82 +23186,82 @@
     <desc lang="pt">Pastel de Nata, Tropezian tart or Argentinean jams, a whole sweet world is unveiled for the finest of palates(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/LUXEHD_13278941/16_9/325/244" />
   </programme>
-  <programme start="20181006004000 +0100" stop="20181006030000 +0100" channel="Sport TV 1 HD">
+  <programme start="20181006004000 +0100" stop="20181006030000 +0100" channel="SPTV 1FHD">
     <title lang="pt">Philadelphia x Dallas</title>
     <desc lang="pt">Transmissão do confronto entre Philadelphia x Dallas(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV1 HD_22951507/16_9/325/244" />
   </programme>
-  <programme start="20181006030000 +0100" stop="20181006032500 +0100" channel="Sport TV 1 HD">
+  <programme start="20181006030000 +0100" stop="20181006032500 +0100" channel="SPTV 1FHD">
     <title lang="pt">Basquetebol</title>
     <desc lang="pt">Acompanhe o NBA Action, o magazine que destaca todos os principais momentos do NBA(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV1 HD_23196704/16_9/325/244" />
   </programme>
-  <programme start="20181006032500 +0100" stop="20181006040000 +0100" channel="Sport TV 1 HD">
+  <programme start="20181006032500 +0100" stop="20181006040000 +0100" channel="SPTV 1FHD">
     <title lang="pt">Rugby</title>
     <desc lang="pt">Magazine dedicado ao mundo do rugby(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV1 HD_23165335/16_9/325/244" />
   </programme>
-  <programme start="20181006040000 +0100" stop="20181006050000 +0100" channel="Sport TV 1 HD">
+  <programme start="20181006040000 +0100" stop="20181006050000 +0100" channel="SPTV 1FHD">
     <title lang="pt">GP Japão</title>
     <desc lang="pt">Destaque para o Grande Prémio do Japão, a partir do circuito de Suzuka. que recebeu o primeiro Grande Prémio pela primeira vez em 1987. Este circuito de alta velocidade continua a ser um dos maiores desafios de condução para os pilotos, com as famosas curvas sinuosas em "S"(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV1 HD_22951508/16_9/325/244" />
   </programme>
-  <programme start="20181006050000 +0100" stop="20181006053000 +0100" channel="Sport TV 1 HD">
+  <programme start="20181006050000 +0100" stop="20181006053000 +0100" channel="SPTV 1FHD">
     <title lang="pt">Palmela</title>
     <desc lang="pt">A disputa nacional de quem será o mais rápido a cortar a meta(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV1 HD_22950869/16_9/325/244" />
   </programme>
-  <programme start="20181006053000 +0100" stop="20181006060000 +0100" channel="Sport TV 1 HD">
+  <programme start="20181006053000 +0100" stop="20181006060000 +0100" channel="SPTV 1FHD">
     <title lang="pt">Rampa de Boticas</title>
     <desc lang="pt">A disputa nacional de quem será o mais rápido a cortar a meta(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV1 HD_22950867/16_9/325/244" />
   </programme>
-  <programme start="20181006060000 +0100" stop="20181006070000 +0100" channel="Sport TV 1 HD">
+  <programme start="20181006060000 +0100" stop="20181006070000 +0100" channel="SPTV 1FHD">
     <title lang="pt">Usa</title>
     <desc lang="pt">FIA World Rallycross Championship(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV1 HD_22950870/16_9/325/244" />
   </programme>
-  <programme start="20181006070000 +0100" stop="20181006081000 +0100" channel="Sport TV 1 HD">
+  <programme start="20181006070000 +0100" stop="20181006081000 +0100" channel="SPTV 1FHD">
     <title lang="pt">GP Japão</title>
     <desc lang="pt">Destaque para o Grande Prémio do Japão, a partir do circuito de Suzuka. que recebeu o primeiro Grande Prémio pela primeira vez em 1987. Este circuito de alta velocidade continua a ser um dos maiores desafios de condução para os pilotos, com as famosas curvas sinuosas em "S"(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV1 HD_22951973/16_9/325/244" />
   </programme>
-  <programme start="20181006081000 +0100" stop="20181006084000 +0100" channel="Sport TV 1 HD">
+  <programme start="20181006081000 +0100" stop="20181006084000 +0100" channel="SPTV 1FHD">
     <title lang="pt">Basquetebol</title>
     <desc lang="pt">O Basquetebol é um desporto genuinamente internacional. Este ano a FIBA concentra-se nas competições continentais, à medida que o mundo se prepara para os Campeonatos. Competições regionais terão lugar na Europa, Ásia, Américas, África e Oceânia(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV1 HD_23165346/16_9/325/244" />
   </programme>
-  <programme start="20181006084000 +0100" stop="20181006110000 +0100" channel="Sport TV 1 HD">
+  <programme start="20181006084000 +0100" stop="20181006110000 +0100" channel="SPTV 1FHD">
     <title lang="pt">Philadelphia x Dallas</title>
     <desc lang="pt">Transmissão do confronto entre Philadelphia x Dallas(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV1 HD_22951507/16_9/325/244" />
   </programme>
-  <programme start="20181006110000 +0100" stop="20181006131000 +0100" channel="Sport TV 1 HD">
+  <programme start="20181006110000 +0100" stop="20181006131000 +0100" channel="SPTV 1FHD">
     <title lang="pt">Cova Piedade x Benfica B (Direto): Segunda Liga</title>
     <desc lang="pt">Transmissão do confronto entre Cova Piedade x Benfica B(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV1 HD_22951974/16_9/325/244" />
   </programme>
-  <programme start="20181006131000 +0100" stop="20181006153000 +0100" channel="Sport TV 1 HD">
+  <programme start="20181006131000 +0100" stop="20181006153000 +0100" channel="SPTV 1FHD">
     <title lang="pt">Feirense x Belenenses: Primeira Liga</title>
     <desc lang="pt">Transmissão do confronto entre Feirense x Belenenses(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV1 HD_22635227/16_9/325/244" />
   </programme>
-  <programme start="20181006153000 +0100" stop="20181006180000 +0100" channel="Sport TV 1 HD">
+  <programme start="20181006153000 +0100" stop="20181006180000 +0100" channel="SPTV 1FHD">
     <title lang="pt">V. Setúbal x Moreirense (Direto): Primeira Liga</title>
     <desc lang="pt">Transmissão do confronto entre V. Setúbal x Moreirense(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV1 HD_22712927/16_9/325/244" />
   </programme>
-  <programme start="20181006180000 +0100" stop="20181006203000 +0100" channel="Sport TV 1 HD">
+  <programme start="20181006180000 +0100" stop="20181006203000 +0100" channel="SPTV 1FHD">
     <title lang="pt">Marítimo x V. Guimarães (Direto): Primeira Liga</title>
     <desc lang="pt">Transmissão do confronto entre Marítimo x V. Guimarães(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV1 HD_22859565/16_9/325/244" />
   </programme>
-  <programme start="20181006203000 +0100" stop="20181006224500 +0100" channel="Sport TV 1 HD">
+  <programme start="20181006203000 +0100" stop="20181006224500 +0100" channel="SPTV 1FHD">
     <title lang="pt">Sc Braga x Rio Ave (Direto): Primeira Liga</title>
     <desc lang="pt">Transmissão do confronto entre Sc Braga x Rio Ave(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV1 HD_22589061/16_9/325/244" />
   </programme>
-  <programme start="20181006224500 +0100" stop="20181007003500 +0100" channel="Sport TV 1 HD">
+  <programme start="20181006224500 +0100" stop="20181007003500 +0100" channel="SPTV 1FHD">
     <title lang="pt">Udinese x Juventus: Liga Italiana</title>
     <desc lang="pt">Transmissão do confronto entre Udinese x Juventus(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV1 HD_22701321/16_9/325/244" />
@@ -24605,271 +24605,271 @@
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/NHK WORLD_12946179/16_9/325/244" />
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-  <programme start="20181006004100 +0100" stop="20181006013700 +0100" channel="RTP 2 HD">
+  <programme start="20181006004100 +0100" stop="20181006013700 +0100" channel="RTP 2FHD">
     <title lang="pt">Gomorra</title>
     <desc lang="pt">Com o padrinho Don Pietro assassinado, há um vazio a ser preenchido no submundo de Nápoles. O filho Genny assume o controlo, aproveitando a oportunidade para saldar contas antigas. Os sobreviventes das facções restantes sofreram perdas financeiras drásticas e estabeleceram a paz(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22840321/16_9/325/244" />
     <episode-num system="onscreen">S3 E2</episode-num>
   </programme>
-  <programme start="20181006013700 +0100" stop="20181006024200 +0100" channel="RTP 2 HD">
+  <programme start="20181006013700 +0100" stop="20181006024200 +0100" channel="RTP 2FHD">
     <title lang="pt">Sociedade Civil</title>
     <desc lang="pt">Espalhados por todo o mundo estão portugueses em missão: ajudam, protegem, educam e curam. É deles que falamos neste Sociedade Civil(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22951481/16_9/325/244" />
     <episode-num system="onscreen">S14 E141</episode-num>
   </programme>
-  <programme start="20181006024200 +0100" stop="20181006031700 +0100" channel="RTP 2 HD">
+  <programme start="20181006024200 +0100" stop="20181006031700 +0100" channel="RTP 2FHD">
     <title lang="pt">SMS</title>
     <desc lang="pt">E se os alunos descobrirem que estudar pode ser um divertimento? E se as matérias mais difíceis passarem a ser uma brincadeira? No SMS... não é preciso usar cábulas(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_23214438/16_9/325/244" />
   </programme>
-  <programme start="20181006031700 +0100" stop="20181006054900 +0100" channel="RTP 2 HD">
+  <programme start="20181006031700 +0100" stop="20181006054900 +0100" channel="RTP 2FHD">
     <title lang="pt">Euronews</title>
     <desc lang="pt">Um programa que resulta da parceria entre a RTP e a Euronews, As reportagens abrangem temas de interesse internacional, nacional, desportivo, cultural, entretenimento e até a previsão do estado do tempo na Europa. A Euronews acompanha sempre todos os acontecimentos de relevo nacional(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_2326277/16_9/325/244" />
   </programme>
-  <programme start="20181006054900 +0100" stop="20181006063200 +0100" channel="RTP 2 HD">
+  <programme start="20181006054900 +0100" stop="20181006063200 +0100" channel="RTP 2FHD">
     <title lang="pt">Os Nossos Dias</title>
     <desc lang="pt">Otília não consegue dormir e vai para a sala. Ao ver os pertences de Eduardo que Rodrigo levou para casa, começa a revirá-los e centra a sua atenção no telemóvel e na agenda do marido. O aparelho não lhe dá a informação que pretende mas a agenda oferece-lhe um papel que a deixa numa grande tensão(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_2249771/16_9/325/244" />
     <episode-num system="onscreen">S1 E154</episode-num>
   </programme>
-  <programme start="20181006063200 +0100" stop="20181006070000 +0100" channel="RTP 2 HD">
+  <programme start="20181006063200 +0100" stop="20181006070000 +0100" channel="RTP 2FHD">
     <title lang="pt">Repórter África</title>
     <desc lang="pt">Noticiário diário com a atualidade do continente africano(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_2366142/16_9/325/244" />
   </programme>
-  <programme start="20181006070000 +0100" stop="20181006080000 +0100" channel="RTP 2 HD">
+  <programme start="20181006070000 +0100" stop="20181006080000 +0100" channel="RTP 2FHD">
     <title lang="pt">Euronews</title>
     <desc lang="pt">Um programa que resulta da parceria entre a RTP e a Euronews, As reportagens abrangem temas de interesse internacional, nacional, desportivo, cultural, entretenimento e até a previsão do estado do tempo na Europa. A Euronews acompanha sempre todos os acontecimentos de relevo nacional(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_2326277/16_9/325/244" />
   </programme>
-  <programme start="20181006080000 +0100" stop="20181006080100 +0100" channel="RTP 2 HD">
+  <programme start="20181006080000 +0100" stop="20181006080100 +0100" channel="RTP 2FHD">
     <title lang="pt">Zig Zag</title>
     <desc lang="pt">O Gabi e a Filó entraram na casa do Zig Zag e parece que tão cedo não a vão abandonar! Filó, uma gata muito inteligente que sabe muitas coisas e quer ensiná-las, Gabi, um cão muito divertido, que o que mais gosta é de brincar. Os dois são grandes amigos e vão viver muitas situações engraçadas(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_2326269/16_9/325/244" />
   </programme>
-  <programme start="20181006080100 +0100" stop="20181006080200 +0100" channel="RTP 2 HD">
+  <programme start="20181006080100 +0100" stop="20181006080200 +0100" channel="RTP 2FHD">
     <title lang="pt">Banda Zig Zag</title>
     <desc lang="pt">Todos foram aprender um instrumento e escolheram falar de alguns temas que nem sempre são motivo de letras de músicas(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22749246/16_9/325/244" />
     <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
-  <programme start="20181006080200 +0100" stop="20181006081500 +0100" channel="RTP 2 HD">
+  <programme start="20181006080200 +0100" stop="20181006081500 +0100" channel="RTP 2FHD">
     <title lang="pt">Vicky</title>
     <desc lang="pt">Vicky, o Vicking é um dos personagens mais populares entre crianças e adultos. Agora, as novas aventuras do espirituoso menino vicking voltam à televisão em formato Hd. As novas histórias estão repletas de ritmo, aventuras e muito humor(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22761115/16_9/325/244" />
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20181006081500 +0100" stop="20181006082200 +0100" channel="RTP 2 HD">
+  <programme start="20181006081500 +0100" stop="20181006082200 +0100" channel="RTP 2FHD">
     <title lang="pt">Bing</title>
     <desc lang="pt">Com a ajuda do seu amigo Flop, Bing vai viver grandes aventuras e perceber que não faz mal quando alguma coisa não corre tão bem como esperava(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22820213/16_9/325/244" />
     <episode-num system="onscreen">E38</episode-num>
   </programme>
-  <programme start="20181006082200 +0100" stop="20181006084100 +0100" channel="RTP 2 HD">
+  <programme start="20181006082200 +0100" stop="20181006084100 +0100" channel="RTP 2FHD">
     <title lang="pt">Waybuloo</title>
     <desc lang="pt">Bem-vindo à terra de Nara, o lar dos Piplings e porta de entrada para Waybuloo! Waybuloo é uma exploração única de emoções e relacionamentos, especialmente criado para crianças pré-escolares(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22774233/16_9/325/244" />
     <episode-num system="onscreen">E23</episode-num>
   </programme>
-  <programme start="20181006084100 +0100" stop="20181006084800 +0100" channel="RTP 2 HD">
+  <programme start="20181006084100 +0100" stop="20181006084800 +0100" channel="RTP 2FHD">
     <title lang="pt">As Aventuras da Miffy</title>
     <desc lang="pt">Miffy é uma encantadora coelhinha que vive com os seus pais numa casinha com persianas vermelhas e um telhado vermelho no meio de campos verdes. Miffy é aventureira e gosta de sair com os seus amigos para a floresta ou para as colinas e descobrir coisas simples sobre o mundo à sua volta(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22817878/16_9/325/244" />
     <episode-num system="onscreen">E37</episode-num>
   </programme>
-  <programme start="20181006084800 +0100" stop="20181006090000 +0100" channel="RTP 2 HD">
+  <programme start="20181006084800 +0100" stop="20181006090000 +0100" channel="RTP 2FHD">
     <title lang="pt">Octonautas</title>
     <desc lang="pt">São pequenos e não têm medo. São muito fofos e aventureiros. Estão preparados para todos os desafios. São os Octonautas! Prontos a mergulharem numa missão para salvarem o dia(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22859395/16_9/325/244" />
     <episode-num system="onscreen">E28</episode-num>
   </programme>
-  <programme start="20181006090000 +0100" stop="20181006091200 +0100" channel="RTP 2 HD">
+  <programme start="20181006090000 +0100" stop="20181006091200 +0100" channel="RTP 2FHD">
     <title lang="pt">Lulu Cambalhota</title>
     <desc lang="pt">Lulu Cambalhota, uma série alegre e agradável para os pequenos exploradores da vida e da natureza. Lulu e os seus amigos adoram o campo, as florestas, o riacho, todas as estações do ano. Para eles o melhor parque infantil é a natureza(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22843199/16_9/325/244" />
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20181006091200 +0100" stop="20181006092000 +0100" channel="RTP 2 HD">
+  <programme start="20181006091200 +0100" stop="20181006092000 +0100" channel="RTP 2FHD">
     <title lang="pt">Manon</title>
     <desc lang="pt">Vem conhecer Manon, a pequena rainha dos animais que vive divertidas e poéticas aventuras com o seus numerosos companheiros: gatos, cães, pássaros, coelhos, patos e tantos outros animais(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22950065/16_9/325/244" />
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  <programme start="20181006092000 +0100" stop="20181006093100 +0100" channel="RTP 2 HD">
+  <programme start="20181006092000 +0100" stop="20181006093100 +0100" channel="RTP 2FHD">
     <title lang="pt">Princesinha</title>
     <desc lang="pt">A Princesinha é uma menina muito curiosa, espontânea e também muito caprichosa. Quando o mundo não é como ela gosta... zanga-se(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22798841/16_9/325/244" />
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20181006093100 +0100" stop="20181006093700 +0100" channel="RTP 2 HD">
+  <programme start="20181006093100 +0100" stop="20181006093700 +0100" channel="RTP 2FHD">
     <title lang="pt">A Sombra dos Monstros</title>
     <desc lang="pt">Todas as noites um Monstro Engraçado aparece no quarto de Solomon. Pancho e Solomon têm de os desmascarar(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22843701/16_9/325/244" />
     <episode-num system="onscreen">E25</episode-num>
   </programme>
-  <programme start="20181006093700 +0100" stop="20181006094900 +0100" channel="RTP 2 HD">
+  <programme start="20181006093700 +0100" stop="20181006094900 +0100" channel="RTP 2FHD">
     <title lang="pt">Sally Bollywood</title>
     <desc lang="pt">Sally tem 12 anos e quer ser detetive, como o pai. Cria então dentro da agência do seu pai um pequeno departamento, com serviços dirigidos apenas às crianças. Problemas com amigos? Animais de estimação desaparecidos? Sally poderá ajudar-vos. Pagamentos feitos em chocolates e guloseimas(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22807700/16_9/325/244" />
     <episode-num system="onscreen">E31</episode-num>
   </programme>
-  <programme start="20181006094900 +0100" stop="20181006095000 +0100" channel="RTP 2 HD">
+  <programme start="20181006094900 +0100" stop="20181006095000 +0100" channel="RTP 2FHD">
     <title lang="pt">Movimento Gentil</title>
     <desc lang="pt">Depoimentos dos Embaixadores do Movimento Gentil que pretendem realçar a importância da gentileza em todos os momentos das nossas vidas(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22952859/16_9/325/244" />
   </programme>
-  <programme start="20181006095000 +0100" stop="20181006100200 +0100" channel="RTP 2 HD">
+  <programme start="20181006095000 +0100" stop="20181006100200 +0100" channel="RTP 2FHD">
     <title lang="pt">Gawayn</title>
     <desc lang="pt">Esta é uma aventura entre homens valentes que querem salvar a princesa Gwendolina(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22771106/16_9/325/244" />
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20181006100200 +0100" stop="20181006105300 +0100" channel="RTP 2 HD">
+  <programme start="20181006100200 +0100" stop="20181006105300 +0100" channel="RTP 2FHD">
     <title lang="pt">Jogos Reais</title>
     <desc lang="pt">São 8 episódios, cheios de energia e adrenalina. Em cada episódio participam 4 equipas, as melhores serão apuradas para uma Grande Final! Participam meninas e meninos dos 10 aos 13 anos. Aqui vão ter mesmo de correr, saltar, mergulhar e trabalhar em equipa(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22800812/16_9/325/244" />
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20181006105300 +0100" stop="20181006111600 +0100" channel="RTP 2 HD">
+  <programme start="20181006105300 +0100" stop="20181006111600 +0100" channel="RTP 2FHD">
     <title lang="pt">Caçadores de Dragões</title>
     <desc lang="pt">Ouvi, ouvi gente boa! Ouvi as aventuras de Lian-chu e Gwizdo e da jovem Zazá e Hector, o seu dragão de estimação, dois caçadores de dragões que praticam a sua atividade, não de acordo com as regras da arte... mas estritamente por dinheiro! Estes dois vão fazê-los rebolar a rir(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22842842/16_9/325/244" />
     <episode-num system="onscreen">E35</episode-num>
   </programme>
-  <programme start="20181006111600 +0100" stop="20181006112400 +0100" channel="RTP 2 HD">
+  <programme start="20181006111600 +0100" stop="20181006112400 +0100" channel="RTP 2FHD">
     <title lang="pt">As Regras do Ângelo</title>
     <desc lang="pt">Ângelo tem 12 anos e o que mais gosta de fazer é ditar as suas próprias regras e não obedecer a mais ninguém. Com as suas falinhas mansas e artimanhas está sempre a pensar numa maneira de se safar de uma situação. Quanto maior é o desafio, mais elaborado é o plano(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22950067/16_9/325/244" />
     <episode-num system="onscreen">S1 E50</episode-num>
   </programme>
-  <programme start="20181006112400 +0100" stop="20181006113200 +0100" channel="RTP 2 HD">
+  <programme start="20181006112400 +0100" stop="20181006113200 +0100" channel="RTP 2FHD">
     <title lang="pt">As Regras do Ângelo</title>
     <desc lang="pt">Ângelo tem 12 anos e o que mais gosta de fazer é ditar as suas próprias regras e não obedecer a mais ninguém. Com as suas falinhas mansas e artimanhas está sempre a pensar numa maneira de se safar de uma situação. Quanto maior é o desafio, mais elaborado é o plano(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22950711/16_9/325/244" />
     <episode-num system="onscreen">S1 E51</episode-num>
   </programme>
-  <programme start="20181006113200 +0100" stop="20181006114000 +0100" channel="RTP 2 HD">
+  <programme start="20181006113200 +0100" stop="20181006114000 +0100" channel="RTP 2FHD">
     <title lang="pt">Animais Voadores</title>
     <desc lang="pt">O País das Luzes fica numa grande rocha que voa ao redor do mundo. Os habitantes deste país são músicos e têm asas por terem sido corajosos o suficiente para mudar suas vidas para melhor. Mas eles só podem voar quando são verdadeiramente felizes(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22828790/16_9/325/244" />
     <episode-num system="onscreen">E33</episode-num>
   </programme>
-  <programme start="20181006114000 +0100" stop="20181006114700 +0100" channel="RTP 2 HD">
+  <programme start="20181006114000 +0100" stop="20181006114700 +0100" channel="RTP 2FHD">
     <title lang="pt">O Oásis de Óscar</title>
     <desc lang="pt">O Oasis de Oscar é um desenho animado que transporta as aventuras de Oscar e o trio Sweety, Harchi e Burke, cujos caminhos estão perpetuamente a cruzar-se. Perdidos, no meio de um deserto árido, todos estão a tentar sobreviver e acima de tudo não morrer de tédio(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22851042/16_9/325/244" />
     <episode-num system="onscreen">E24</episode-num>
   </programme>
-  <programme start="20181006114700 +0100" stop="20181006120100 +0100" channel="RTP 2 HD">
+  <programme start="20181006114700 +0100" stop="20181006120100 +0100" channel="RTP 2FHD">
     <title lang="pt">Descobrir a Ciência</title>
     <desc lang="pt">Aqui está um novo programa de experiências científicas! Apresentado com imagens elegantes e experiências únicas e de grande escala, Discover Science irá certamente captar a atenção de todos. Os "Rangers Experiment" usam os seus próprios corpos como ferramentas para realizar as experiências(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22750758/16_9/325/244" />
     <episode-num system="onscreen">E9</episode-num>
   </programme>
-  <programme start="20181006120100 +0100" stop="20181006122800 +0100" channel="RTP 2 HD">
+  <programme start="20181006120100 +0100" stop="20181006122800 +0100" channel="RTP 2FHD">
     <title lang="pt">As Férias Muito Longas</title>
     <desc lang="pt">As Férias Muito Longas" relata a vida diária de dois irmãos, que são deixados pelos pais na casa dos avós perto da costa da Normandia por algumas semanas no início da Segunda Guerra Mundial. À medida que a guerra avança, essas semanas tornam-se cinco anos.(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22951882/16_9/325/244" />
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20181006122800 +0100" stop="20181006124000 +0100" channel="RTP 2 HD">
+  <programme start="20181006122800 +0100" stop="20181006124000 +0100" channel="RTP 2FHD">
     <title lang="pt">Tashi</title>
     <desc lang="pt">Quando os pais de Jack decidem que ele irá viver com Tashi, o seu primo afastado, os dois meninos vivem uma série de aventuras numa região fantástica e longínqua, protegendo a vila de Tashi de criaturas e vilões(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22756485/16_9/325/244" />
     <episode-num system="onscreen">E25</episode-num>
   </programme>
-  <programme start="20181006124000 +0100" stop="20181006125600 +0100" channel="RTP 2 HD">
+  <programme start="20181006124000 +0100" stop="20181006125600 +0100" channel="RTP 2FHD">
     <title lang="pt">Design Ah! um Olhar Sobre o Design</title>
     <desc lang="pt">Um programa onde se demonstra de uma maneira original e divertida que o design não é apenas uma palavra chique, mas que realmente existe em tudo, até nos objetos e nas situações mais improváveis(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22873221/16_9/325/244" />
     <episode-num system="onscreen">S2 E3</episode-num>
   </programme>
-  <programme start="20181006125600 +0100" stop="20181006125700 +0100" channel="RTP 2 HD">
+  <programme start="20181006125600 +0100" stop="20181006125700 +0100" channel="RTP 2FHD">
     <title lang="pt">Desalinhado</title>
     <desc lang="pt">Novo espaço na RTP 2 com programas direcionados para jovens dos 14 aos 18 anos, onde poderão assistir a programas de ficção, magazines e reportagens(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_23110493/16_9/325/244" />
   </programme>
-  <programme start="20181006125700 +0100" stop="20181006130300 +0100" channel="RTP 2 HD">
+  <programme start="20181006125700 +0100" stop="20181006130300 +0100" channel="RTP 2FHD">
     <title lang="pt">Wru?</title>
     <desc lang="pt">Alex e Tanya encontram-se no aeroporto e prometem compartilhar mutuamente as suas viagens através da internet. Alex e Tanya levam-nos a visitar os quatro cantos da mundo, numa incrível viagem à descoberta do mundo, por meio de vídeos, fotos, textos e smileys(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22951883/16_9/325/244" />
     <episode-num system="onscreen">E44</episode-num>
   </programme>
-  <programme start="20181006130300 +0100" stop="20181006131000 +0100" channel="RTP 2 HD">
+  <programme start="20181006130300 +0100" stop="20181006131000 +0100" channel="RTP 2FHD">
     <title lang="pt">Wru?</title>
     <desc lang="pt">Alex e Tanya encontram-se no aeroporto e prometem compartilhar mutuamente as suas viagens através da internet. Alex e Tanya levam-nos a visitar os quatro cantos da mundo, numa incrível viagem à descoberta do mundo, por meio de vídeos, fotos, textos e smileys(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22951884/16_9/325/244" />
     <episode-num system="onscreen">E45</episode-num>
   </programme>
-  <programme start="20181006131000 +0100" stop="20181006133700 +0100" channel="RTP 2 HD">
+  <programme start="20181006131000 +0100" stop="20181006133700 +0100" channel="RTP 2FHD">
     <title lang="pt">Vamos À Descoberta</title>
     <desc lang="pt">Um magazine apresentado por Fred, Jamy e Sabine, no qual são abordados diversos temas: a Terra, o universo, saúde, história e cultura ou tecnologia. A bordo do seu camião-laboratório, os três jornalistas percorrem locais incomuns para fornecer uma melhor compreensão do que nos rodeia(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_23228328/16_9/325/244" />
   </programme>
-  <programme start="20181006133700 +0100" stop="20181006140300 +0100" channel="RTP 2 HD">
+  <programme start="20181006133700 +0100" stop="20181006140300 +0100" channel="RTP 2FHD">
     <title lang="pt">Vamos À Descoberta</title>
     <desc lang="pt">Um magazine apresentado por Fred, Jamy e Sabine, no qual são abordados diversos temas: a Terra, o universo, saúde, história e cultura ou tecnologia. A bordo do seu camião-laboratório, os três jornalistas percorrem locais incomuns para fornecer uma melhor compreensão do que nos rodeia(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_23228328/16_9/325/244" />
   </programme>
-  <programme start="20181006140300 +0100" stop="20181006142800 +0100" channel="RTP 2 HD">
+  <programme start="20181006140300 +0100" stop="20181006142800 +0100" channel="RTP 2FHD">
     <title lang="pt">Prontos para Tudo</title>
     <desc lang="pt">A história de seis adolescentes, todos especialistas na sua área, que vieram viver para Arcadia House, um hostel em Sidney, para concretizarem os seus sonhos. Para alguns é a oportunidade de uma vida, para outros é uma última chance(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22715940/16_9/325/244" />
     <episode-num system="onscreen">E9</episode-num>
   </programme>
-  <programme start="20181006142800 +0100" stop="20181006150000 +0100" channel="RTP 2 HD">
+  <programme start="20181006142800 +0100" stop="20181006150000 +0100" channel="RTP 2FHD">
     <title lang="pt">Prontos para Tudo</title>
     <desc lang="pt">A história de seis adolescentes, todos especialistas na sua área, que vieram viver para Arcadia House, um hostel em Sidney, para concretizarem os seus sonhos. Para alguns é a oportunidade de uma vida, para outros é uma última chance(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22719203/16_9/325/244" />
     <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20181006150000 +0100" stop="20181006153000 +0100" channel="RTP 2 HD">
+  <programme start="20181006150000 +0100" stop="20181006153000 +0100" channel="RTP 2FHD">
     <title lang="pt">Desporto 2</title>
     <desc lang="pt">Bem-vindo ao programa das modalidades praticadas em Portugal e no estrangeiro(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_2326287/16_9/325/244" />
   </programme>
-  <programme start="20181006153000 +0100" stop="20181006192200 +0100" channel="RTP 2 HD">
+  <programme start="20181006153000 +0100" stop="20181006192200 +0100" channel="RTP 2FHD">
     <title lang="pt">Ginástica: Taça do Mundo de Trampolins 2018</title>
     <desc lang="pt">Tendo como palco a cidade de Loulé, Portugal volta a receber mais uma edição da Taça do Mundo de Ginástica Trampolins(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_23281400/16_9/325/244" />
   </programme>
-  <programme start="20181006192200 +0100" stop="20181006193200 +0100" channel="RTP 2 HD">
+  <programme start="20181006192200 +0100" stop="20181006193200 +0100" channel="RTP 2FHD">
     <title lang="pt">Wru?</title>
     <desc lang="pt">Alex e Tanya encontram-se no aeroporto e prometem compartilhar mutuamente as suas viagens através da internet. Alex e Tanya levam-nos a visitar os quatro cantos da mundo, numa incrível viagem à descoberta do mundo, por meio de vídeos, fotos, textos e smileys(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22954515/16_9/325/244" />
     <episode-num system="onscreen">E5</episode-num>
   </programme>
-  <programme start="20181006193200 +0100" stop="20181006195500 +0100" channel="RTP 2 HD">
+  <programme start="20181006193200 +0100" stop="20181006195500 +0100" channel="RTP 2FHD">
     <title lang="pt">Armário</title>
     <desc lang="pt">O que é o luxo em Portugal? Para responder a esta pergunta, Joana Barrios conversa com Paula Amorim, visita o Palácio da Ajuda e faz perguntas ao Professor Carlos Brito, especialista em Marketing da Universidade do Porto(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22953230/16_9/325/244" />
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20181006195500 +0100" stop="20181006202600 +0100" channel="RTP 2 HD">
+  <programme start="20181006195500 +0100" stop="20181006202600 +0100" channel="RTP 2FHD">
     <title lang="pt">Biosfera</title>
     <desc lang="pt">Um grupo de peritos mundiais, liderados por portugueses, quer declarar o Sistema Terrestre como Património Intangível da Humanidade. A proposta do projeto Casa Comum da Humanidade é uma resposta à crise dos comuns. O Biosfera visitou projetos nacionais que preservam os bens e os valores do Comum(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22951885/16_9/325/244" />
     <episode-num system="onscreen">S16 E31</episode-num>
   </programme>
-  <programme start="20181006202600 +0100" stop="20181006205800 +0100" channel="RTP 2 HD">
+  <programme start="20181006202600 +0100" stop="20181006205800 +0100" channel="RTP 2FHD">
     <title lang="pt">Primeira Pedra</title>
     <desc lang="pt">Resistance Veneza foi a primeira apresentação pública do projeto Resistance, que dá especial enfoque à enorme resistência de determinadas pedras portuguesas. Entrevistas a Alejandro Aravena, Álvaro Siza, João Luís Carrilho da Graça, Eduardo Souto de Moura, Márcio Kogan, Luís Lopes e Rúben Martins(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_23281024/16_9/325/244" />
   </programme>
-  <programme start="20181006205800 +0100" stop="20181006213000 +0100" channel="RTP 2 HD">
+  <programme start="20181006205800 +0100" stop="20181006213000 +0100" channel="RTP 2FHD">
     <title lang="pt">Eco-Lógica</title>
     <desc lang="pt">No seu apartamento parisiense, Eris Justman colocou em prática uma abordagem ecológica para viver o mais longe possível. E expandiu-a ao público em geral. As crianças da Escola Primária de Langouet, na Bretanha, ficaram conscientes dos problemas ecológicos graças ao seu edifício escolar(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22949431/16_9/325/244" />
     <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
-  <programme start="20181006213000 +0100" stop="20181006221600 +0100" channel="RTP 2 HD">
+  <programme start="20181006213000 +0100" stop="20181006221600 +0100" channel="RTP 2FHD">
     <title lang="pt">Jornal 2</title>
     <desc lang="pt">A equipa do Jornal 2 tem os factos, a investigação de cada um dos assuntos, a leitura do país e da sua realidade política e social feita por alguns dos protagonistas do momento e comentada por um alargado grupo de notáveis da sociedade civil com opinião feita de uma forte experiência de vida(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_22616943/16_9/325/244" />
     <episode-num system="onscreen">E278</episode-num>
   </programme>
-  <programme start="20181006221600 +0100" stop="20181007010400 +0100" channel="RTP 2 HD">
+  <programme start="20181006221600 +0100" stop="20181007010400 +0100" channel="RTP 2FHD">
     <title lang="pt">Clarabóia</title>
     <desc lang="pt">Assinalando os 20 anos da atribuição do Prémio Nobel da Literatura, em 1998, a RTP2 apresenta o romance de José Saramago na adaptação do grupo de teatro A Barraca. A história de seis famílias que habitam um prédio da Lisboa remediada dos anos 50(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/RTP2 H_23281025/16_9/325/244" />
@@ -25114,57 +25114,57 @@
     <desc lang="pt">Um programa mágico que trará ao seu ecrã imagens de deliciar os seus sentidos, acompanhadas pelos sons de música suave(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BABYTV_1311552/16_9/325/244" />
   </programme>
-  <programme start="20181006013000 +0100" stop="20181006022000 +0100" channel="Sport TV 4 HD">
+  <programme start="20181006013000 +0100" stop="20181006022000 +0100" channel="SPTV 4 HD">
     <title lang="pt">Golfe</title>
     <desc lang="pt">Magazine dedicado ao mundo do golfe(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV4 HD_23165370/16_9/325/244" />
   </programme>
-  <programme start="20181006022000 +0100" stop="20181006042000 +0100" channel="Sport TV 4 HD">
+  <programme start="20181006022000 +0100" stop="20181006042000 +0100" channel="SPTV 4 HD">
     <title lang="pt">Sem Emissão</title>
     <desc lang="pt">Sem Emissão(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV4 HD_2330494/16_9/325/244" />
   </programme>
-  <programme start="20181006042000 +0100" stop="20181006060000 +0100" channel="Sport TV 4 HD">
+  <programme start="20181006042000 +0100" stop="20181006060000 +0100" channel="SPTV 4 HD">
     <title lang="pt">Sem Emissão</title>
     <desc lang="pt">Sem Emissão(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV4 HD_2330494/16_9/325/244" />
   </programme>
-  <programme start="20181006060000 +0100" stop="20181006080000 +0100" channel="Sport TV 4 HD">
+  <programme start="20181006060000 +0100" stop="20181006080000 +0100" channel="SPTV 4 HD">
     <title lang="pt">Tóquio</title>
     <desc lang="pt">Acompanhamento dos Torneios ATP World Tour 500(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV4 HD_22803065/16_9/325/244" />
   </programme>
-  <programme start="20181006080000 +0100" stop="20181006100000 +0100" channel="Sport TV 4 HD">
+  <programme start="20181006080000 +0100" stop="20181006100000 +0100" channel="SPTV 4 HD">
     <title lang="pt">Tóquio</title>
     <desc lang="pt">Acompanhamento dos Torneios ATP World Tour 500(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV4 HD_22803065/16_9/325/244" />
   </programme>
-  <programme start="20181006100000 +0100" stop="20181006130000 +0100" channel="Sport TV 4 HD">
+  <programme start="20181006100000 +0100" stop="20181006130000 +0100" channel="SPTV 4 HD">
     <title lang="pt">Safeway Open</title>
     <desc lang="pt">Acompanhe todas as provas do PGA Tour(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV4 HD_22803567/16_9/325/244" />
   </programme>
-  <programme start="20181006130000 +0100" stop="20181006170000 +0100" channel="Sport TV 4 HD">
+  <programme start="20181006130000 +0100" stop="20181006170000 +0100" channel="SPTV 4 HD">
     <title lang="pt">Alfred Dunhill Links Championship</title>
     <desc lang="pt">Destaque para o European Tour(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV4 HD_22388157/16_9/325/244" />
   </programme>
-  <programme start="20181006170000 +0100" stop="20181006190000 +0100" channel="Sport TV 4 HD">
+  <programme start="20181006170000 +0100" stop="20181006190000 +0100" channel="SPTV 4 HD">
     <title lang="pt">Antalyaspor x Galatasaray (Direto): Superliga Turca</title>
     <desc lang="pt">Transmissão do confronto entre Antalyaspor x Galatasaray(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV4 HD_22954550/16_9/325/244" />
   </programme>
-  <programme start="20181006190000 +0100" stop="20181006204000 +0100" channel="Sport TV 4 HD">
+  <programme start="20181006190000 +0100" stop="20181006204000 +0100" channel="SPTV 4 HD">
     <title lang="pt">Paris St Germain x Nantes: Andebol</title>
     <desc lang="pt">Transmissão do confronto entre Paris St Germain x Nantes(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV4 HD_22953140/16_9/325/244" />
   </programme>
-  <programme start="20181006204000 +0100" stop="20181006223000 +0100" channel="Sport TV 4 HD">
+  <programme start="20181006204000 +0100" stop="20181006223000 +0100" channel="SPTV 4 HD">
     <title lang="pt">Alfred Dunhill Links Championship</title>
     <desc lang="pt">Destaque para o European Tour(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV4 HD_22388160/16_9/325/244" />
   </programme>
-  <programme start="20181006223000 +0100" stop="20181007013000 +0100" channel="Sport TV 4 HD">
+  <programme start="20181006223000 +0100" stop="20181007013000 +0100" channel="SPTV 4 HD">
     <title lang="pt">Safeway Open</title>
     <desc lang="pt">Acompanhe todas as provas do PGA Tour(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV4 HD_22622045/16_9/325/244" />
@@ -26094,122 +26094,122 @@
     <desc lang="pt">Maggie e a sua filha adolescente, Summer, viajam até à Toscânia, em Itália, para umas férias relaxantes. Maggie reencontra um amor antigo, mas Summer foge para Roma para se encontrar com o seu namorado. Maggie persegue-a e a verdadeira viagem começa.(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/AXN W HD_21191786/16_9/325/244" />
   </programme>
-  <programme start="20181006001000 +0100" stop="20181006004000 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006001000 +0100" stop="20181006004000 +0100" channel="SPTV 5 HD">
     <title lang="pt">Rali Grã Bretanha</title>
     <desc lang="pt">Não perca os melhores momentos da mais emocionante prova de automobilismo do mundo, o WRC(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_22951537/16_9/325/244" />
   </programme>
-  <programme start="20181006004000 +0100" stop="20181006021000 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006004000 +0100" stop="20181006021000 +0100" channel="SPTV 5 HD">
     <title lang="pt">GP Japão</title>
     <desc lang="pt">Destaque para o Grande Prémio do Japão, a partir do circuito de Suzuka. que recebeu o primeiro Grande Prémio pela primeira vez em 1987. Este circuito de alta velocidade continua a ser um dos maiores desafios de condução para os pilotos, com as famosas curvas sinuosas em "S"(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_22951534/16_9/325/244" />
   </programme>
-  <programme start="20181006021000 +0100" stop="20181006030000 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006021000 +0100" stop="20181006030000 +0100" channel="SPTV 5 HD">
     <title lang="pt">GP Tailândia</title>
     <desc lang="pt">Em março de 2015, a Tailândia tornou-se o mais recente país asiático a sediar um evento de motociclismo de classe mundial, com o Campeonato Mundial de Superbike realizado no circuito internacional de Chang. 2018 marca a estreia do MotoGP na "cidade da felicidade", Buriram, Tailândia(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_22951522/16_9/325/244" />
   </programme>
-  <programme start="20181006030000 +0100" stop="20181006035500 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006030000 +0100" stop="20181006035500 +0100" channel="SPTV 5 HD">
     <title lang="pt">GP Tailândia</title>
     <desc lang="pt">Moto3 é restrita a motores monocilíndricos de 250cc. O peso mínimo para todas as motos e pilotos é de 148 kg. Acompanhe o GP da Tailândia em Moto3(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_22951538/16_9/325/244" />
   </programme>
-  <programme start="20181006035500 +0100" stop="20181006045500 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006035500 +0100" stop="20181006045500 +0100" channel="SPTV 5 HD">
     <title lang="pt">GP Tailândia</title>
     <desc lang="pt">Em março de 2015, a Tailândia tornou-se o mais recente país asiático a sediar um evento de motociclismo de classe mundial, com o Campeonato Mundial de Superbike realizado no circuito internacional de Chang. 2018 marca a estreia do MotoGP na "cidade da felicidade", Buriram, Tailândia(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_22951539/16_9/325/244" />
   </programme>
-  <programme start="20181006045500 +0100" stop="20181006055000 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006045500 +0100" stop="20181006055000 +0100" channel="SPTV 5 HD">
     <title lang="pt">GP Tailândia</title>
     <desc lang="pt">A Moto2 é a classe de quatro tempos de 600cc. Acompanhe o Grande Prémio da Tailândia em Moto2(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_22951540/16_9/325/244" />
   </programme>
-  <programme start="20181006055000 +0100" stop="20181006063500 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006055000 +0100" stop="20181006063500 +0100" channel="SPTV 5 HD">
     <title lang="pt">Sem Emissão</title>
     <desc lang="pt">Sem Emissão(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_2315946/16_9/325/244" />
   </programme>
-  <programme start="20181006063500 +0100" stop="20181006073000 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006063500 +0100" stop="20181006073000 +0100" channel="SPTV 5 HD">
     <title lang="pt">GP Tailândia</title>
     <desc lang="pt">Moto3 é restrita a motores monocilíndricos de 250cc. O peso mínimo para todas as motos e pilotos é de 148 kg. Acompanhe o GP da Tailândia em Moto3(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_22952007/16_9/325/244" />
   </programme>
-  <programme start="20181006073000 +0100" stop="20181006081000 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006073000 +0100" stop="20181006081000 +0100" channel="SPTV 5 HD">
     <title lang="pt">GP Tailândia</title>
     <desc lang="pt">Em março de 2015, a Tailândia tornou-se o mais recente país asiático a sediar um evento de motociclismo de classe mundial, com o Campeonato Mundial de Superbike realizado no circuito internacional de Chang. 2018 marca a estreia do MotoGP na "cidade da felicidade", Buriram, Tailândia(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_22952008/16_9/325/244" />
   </programme>
-  <programme start="20181006081000 +0100" stop="20181006083500 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006081000 +0100" stop="20181006083500 +0100" channel="SPTV 5 HD">
     <title lang="pt">GP Tailândia</title>
     <desc lang="pt">Em março de 2015, a Tailândia tornou-se o mais recente país asiático a sediar um evento de motociclismo de classe mundial, com o Campeonato Mundial de Superbike realizado no circuito internacional de Chang. 2018 marca a estreia do MotoGP na "cidade da felicidade", Buriram, Tailândia(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_22952009/16_9/325/244" />
   </programme>
-  <programme start="20181006083500 +0100" stop="20181006090500 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006083500 +0100" stop="20181006090500 +0100" channel="SPTV 5 HD">
     <title lang="pt">GP Tailândia</title>
     <desc lang="pt">Em março de 2015, a Tailândia tornou-se o mais recente país asiático a sediar um evento de motociclismo de classe mundial, com o Campeonato Mundial de Superbike realizado no circuito internacional de Chang. 2018 marca a estreia do MotoGP na "cidade da felicidade", Buriram, Tailândia(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_22952010/16_9/325/244" />
   </programme>
-  <programme start="20181006090500 +0100" stop="20181006100000 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006090500 +0100" stop="20181006100000 +0100" channel="SPTV 5 HD">
     <title lang="pt">GP Tailândia</title>
     <desc lang="pt">A Moto2 é a classe de quatro tempos de 600cc. Acompanhe o Grande Prémio da Tailândia em Moto2(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_22952011/16_9/325/244" />
   </programme>
-  <programme start="20181006100000 +0100" stop="20181006110000 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006100000 +0100" stop="20181006110000 +0100" channel="SPTV 5 HD">
     <title lang="pt">GP Japão</title>
     <desc lang="pt">Destaque para o Grande Prémio do Japão, a partir do circuito de Suzuka. que recebeu o primeiro Grande Prémio pela primeira vez em 1987. Este circuito de alta velocidade continua a ser um dos maiores desafios de condução para os pilotos, com as famosas curvas sinuosas em "S"(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_22951977/16_9/325/244" />
   </programme>
-  <programme start="20181006110000 +0100" stop="20181006113000 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006110000 +0100" stop="20181006113000 +0100" channel="SPTV 5 HD">
     <title lang="pt">Rampa de Boticas</title>
     <desc lang="pt">A disputa nacional de quem será o mais rápido a cortar a meta(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_22950867/16_9/325/244" />
   </programme>
-  <programme start="20181006113000 +0100" stop="20181006120000 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006113000 +0100" stop="20181006120000 +0100" channel="SPTV 5 HD">
     <title lang="pt">Rali Grã Bretanha</title>
     <desc lang="pt">Não perca os melhores momentos da mais emocionante prova de automobilismo do mundo, o WRC(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_22951537/16_9/325/244" />
   </programme>
-  <programme start="20181006120000 +0100" stop="20181006130000 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006120000 +0100" stop="20181006130000 +0100" channel="SPTV 5 HD">
     <title lang="pt">Rali Grã Bretanha</title>
     <desc lang="pt">Não perca os melhores momentos da mais emocionante prova de automobilismo do mundo, o WRC(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_22952012/16_9/325/244" />
   </programme>
-  <programme start="20181006130000 +0100" stop="20181006140000 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006130000 +0100" stop="20181006140000 +0100" channel="SPTV 5 HD">
     <title lang="pt">Wrestling</title>
     <desc lang="pt">Acompanhe o Ring Of Honor de Wresling, aqui na Sport TV(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_23191942/16_9/325/244" />
   </programme>
-  <programme start="20181006140000 +0100" stop="20181006160500 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006140000 +0100" stop="20181006160500 +0100" channel="SPTV 5 HD">
     <title lang="pt">Cagliari x Bologna (Direto): Liga Italiana</title>
     <desc lang="pt">Transmissão do confronto entre Cagliari x Bologna(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_22883660/16_9/325/244" />
   </programme>
-  <programme start="20181006160500 +0100" stop="20181006180000 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006160500 +0100" stop="20181006180000 +0100" channel="SPTV 5 HD">
     <title lang="pt">África Sul x Nova Zelândia (Direto): Rugby</title>
     <desc lang="pt">Transmissão do confronto entre África Sul x Nova Zelândia(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_22952013/16_9/325/244" />
   </programme>
-  <programme start="20181006180000 +0100" stop="20181006194000 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006180000 +0100" stop="20181006194000 +0100" channel="SPTV 5 HD">
     <title lang="pt">New Jersey x Edmonton (Direto): Hóquei no Gelo</title>
     <desc lang="pt">Transmissão do confronto entre New Jersey x Edmonton(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_22954639/16_9/325/244" />
   </programme>
-  <programme start="20181006194000 +0100" stop="20181006205000 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006194000 +0100" stop="20181006205000 +0100" channel="SPTV 5 HD">
     <title lang="pt">New Jersey x Edmonton (3ª Parte) (Direto): Hóquei no Gelo</title>
     <desc lang="pt">Transmissão do confronto entre New Jersey x Edmonton(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_22954640/16_9/325/244" />
   </programme>
-  <programme start="20181006205000 +0100" stop="20181006230000 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006205000 +0100" stop="20181006230000 +0100" channel="SPTV 5 HD">
     <title lang="pt">Pequim \/ Tóquio</title>
     <desc lang="pt">Acompanhamento dos Torneios ATP World Tour 500(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_22954637/16_9/325/244" />
   </programme>
-  <programme start="20181006230000 +0100" stop="20181006234000 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006230000 +0100" stop="20181006234000 +0100" channel="SPTV 5 HD">
     <title lang="pt">Rali Grã Bretanha</title>
     <desc lang="pt">Não perca os melhores momentos da mais emocionante prova de automobilismo do mundo, o WRC(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_22951976/16_9/325/244" />
   </programme>
-  <programme start="20181006234000 +0100" stop="20181007014000 +0100" channel="Sport TV 5 HD">
+  <programme start="20181006234000 +0100" stop="20181007014000 +0100" channel="SPTV 5 HD">
     <title lang="pt">Argentina x Austrália (Direto): Rugby</title>
     <desc lang="pt">Transmissão do confronto entre Argentina x Austrália(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV5 HD_22348601/16_9/325/244" />
@@ -28300,77 +28300,77 @@
     <desc lang="pt">A bordo de um veleiro, um grupo de amigos decide nadar em alto-mar, mas não baixa as escadas. O barco revela-se impossível de escalar, deixando-os à deriva, longe da costa. O que começou por ser uma alegre reunião torna-se, então, numa luta pela sobrevivência(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 1_11265534/16_9/325/244" />
   </programme>
-  <programme start="20181006011000 +0100" stop="20181006032000 +0100" channel="Sport TV 2 HD">
+  <programme start="20181006011000 +0100" stop="20181006032000 +0100" channel="SPTV 2FHD">
     <title lang="pt">Santa Clara x Desp. Chaves: Primeira Liga</title>
     <desc lang="pt">Transmissão do confronto entre Santa Clara x Desp. Chaves(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV2 HD_22951513/16_9/325/244" />
   </programme>
-  <programme start="20181006032000 +0100" stop="20181006053000 +0100" channel="Sport TV 2 HD">
+  <programme start="20181006032000 +0100" stop="20181006053000 +0100" channel="SPTV 2FHD">
     <title lang="pt">Feirense x Belenenses: Primeira Liga</title>
     <desc lang="pt">Transmissão do confronto entre Feirense x Belenenses(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV2 HD_22635227/16_9/325/244" />
   </programme>
-  <programme start="20181006053000 +0100" stop="20181006073000 +0100" channel="Sport TV 2 HD">
+  <programme start="20181006053000 +0100" stop="20181006073000 +0100" channel="SPTV 2FHD">
     <title lang="pt">Torino x Frosinone: Liga Italiana</title>
     <desc lang="pt">Transmissão do confronto entre Torino x Frosinone(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV2 HD_22952001/16_9/325/244" />
   </programme>
-  <programme start="20181006073000 +0100" stop="20181006093000 +0100" channel="Sport TV 2 HD">
+  <programme start="20181006073000 +0100" stop="20181006093000 +0100" channel="SPTV 2FHD">
     <title lang="pt">Brighton &amp; Hove Albion x West Ham: Premier League</title>
     <desc lang="pt">Transmissão do confronto entre Brighton &amp; Hove Albion x West Ham(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV2 HD_22951991/16_9/325/244" />
   </programme>
-  <programme start="20181006093000 +0100" stop="20181006113500 +0100" channel="Sport TV 2 HD">
+  <programme start="20181006093000 +0100" stop="20181006113500 +0100" channel="SPTV 2FHD">
     <title lang="pt">Pequim</title>
     <desc lang="pt">Acompanhamento dos Torneios ATP World Tour 500(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV2 HD_22390857/16_9/325/244" />
   </programme>
-  <programme start="20181006113500 +0100" stop="20181006120000 +0100" channel="Sport TV 2 HD">
+  <programme start="20181006113500 +0100" stop="20181006120000 +0100" channel="SPTV 2FHD">
     <title lang="pt">Basquetebol</title>
     <desc lang="pt">O Basquetebol é um desporto genuinamente internacional. Este ano a FIBA concentra-se nas competições continentais, à medida que o mundo se prepara para os Campeonatos. Competições regionais terão lugar na Europa, Ásia, Américas, África e Oceânia(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV2 HD_23165346/16_9/325/244" />
   </programme>
-  <programme start="20181006120000 +0100" stop="20181006123500 +0100" channel="Sport TV 2 HD">
+  <programme start="20181006120000 +0100" stop="20181006123500 +0100" channel="SPTV 2FHD">
     <title lang="pt">Basquetebol</title>
     <desc lang="pt">Acompanhe o NBA Action, o magazine que destaca todos os principais momentos do NBA(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV2 HD_23196704/16_9/325/244" />
   </programme>
-  <programme start="20181006123500 +0100" stop="20181006144000 +0100" channel="Sport TV 2 HD">
+  <programme start="20181006123500 +0100" stop="20181006144000 +0100" channel="SPTV 2FHD">
     <title lang="pt">Hebei China Fortune x Guangzhou Evergrande (Direto): Superliga Chinesa</title>
     <desc lang="pt">Transmissão do confronto entre Hebei China Fortune x Guangzhou Evergrande(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV2 HD_22954464/16_9/325/244" />
   </programme>
-  <programme start="20181006144000 +0100" stop="20181006150000 +0100" channel="Sport TV 2 HD">
+  <programme start="20181006144000 +0100" stop="20181006150000 +0100" channel="SPTV 2FHD">
     <title lang="pt">Golos da 2ª Jornada da Fase de Grupos: Liga Europa</title>
     <desc lang="pt">A Liga Europa da UEFA, prova que substituiu a Taça UEFA, nasceu de uma ideia concebida pelo suíço Ernst Thommen, juntamente com o italiano Ottorino Barrasi e o inglês Stanley Rous. Acompanhe jogos, resumos e toda a informação sobre esta competição(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV2 HD_22954631/16_9/325/244" />
   </programme>
-  <programme start="20181006150000 +0100" stop="20181006165500 +0100" channel="Sport TV 2 HD">
+  <programme start="20181006150000 +0100" stop="20181006165500 +0100" channel="SPTV 2FHD">
     <title lang="pt">Crystal Palace x Wolverhampton (Direto): Premier League</title>
     <desc lang="pt">Transmissão do confronto entre Crystal Palace x Wolverhampton(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV2 HD_22951993/16_9/325/244" />
   </programme>
-  <programme start="20181006165500 +0100" stop="20181006173000 +0100" channel="Sport TV 2 HD">
+  <programme start="20181006165500 +0100" stop="20181006173000 +0100" channel="SPTV 2FHD">
     <title lang="pt">Premier League</title>
     <desc lang="pt">Magazine de informação futebolística(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV2 HD_22585477/16_9/325/244" />
   </programme>
-  <programme start="20181006173000 +0100" stop="20181006193000 +0100" channel="Sport TV 2 HD">
+  <programme start="20181006173000 +0100" stop="20181006193000 +0100" channel="SPTV 2FHD">
     <title lang="pt">Manchester United x Newcastle (Direto): Premier League</title>
     <desc lang="pt">Transmissão do confronto entre Manchester United x Newcastle(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV2 HD_22951994/16_9/325/244" />
   </programme>
-  <programme start="20181006193000 +0100" stop="20181006212000 +0100" channel="Sport TV 2 HD">
+  <programme start="20181006193000 +0100" stop="20181006212000 +0100" channel="SPTV 2FHD">
     <title lang="pt">Leicester x Everton: Premier League</title>
     <desc lang="pt">Transmissão do confronto entre Leicester x Everton(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV2 HD_22814538/16_9/325/244" />
   </programme>
-  <programme start="20181006212000 +0100" stop="20181006231000 +0100" channel="Sport TV 2 HD">
+  <programme start="20181006212000 +0100" stop="20181006231000 +0100" channel="SPTV 2FHD">
     <title lang="pt">Tottenham x Cardiff: Premier League</title>
     <desc lang="pt">Transmissão do confronto entre Tottenham x Cardiff(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV2 HD_22951995/16_9/325/244" />
   </programme>
-  <programme start="20181006231000 +0100" stop="20181007010000 +0100" channel="Sport TV 2 HD">
+  <programme start="20181006231000 +0100" stop="20181007010000 +0100" channel="SPTV 2FHD">
     <title lang="pt">Watford x Bournemouth: Premier League</title>
     <desc lang="pt">Transmissão do confronto entre Watford x Bournemouth(n)</desc>
     <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV2 HD_22951996/16_9/325/244" />
